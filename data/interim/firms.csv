@@ -1,0 +1,336 @@
+,firm_id,firm_name,codex_category,country,city,year_founded,market,problem_1,problem_2,problem_3,analytics,ai,point_integrated,company_url,other_link,comments 
+0,FIRM0002,LexisNexis,Legal Research,USA,New York,1973,Corporate,Legal Research,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.lexisnexis.com/en-us/gateway.page,,LexisNexis started out as a legal research company that has expanded offering into PracticeTech
+1,FIRM0003,Korbitec,Legal Document Automation,South Africa,Cape Town,1976,Corporate,Contracts,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.lexisnexis.co.za/,https://www.linkedin.com/company/korbitec/?originalSubdomain=au,Korbitec was acquired by LexisNexis.
+2,FIRM0014,Microsystems,Legal Document Automation,USA,Illinois,1995,Corporate,Contracts,KM,LitTech ,1,0,Integrated Solution,https://www.litera.com/products/legal/,https://www.linkedin.com/company/microsystems/,Microsoftsystems became Litera Microsystems in 2018 after its private equity shareholder acquired Litera and Sackett Group
+3,FIRM0015,WorkProducts,Legal Practice Management,USA,Virginia,1995,Corporate,eDiscovery,Other Practice Tech,NONE,0,0,Point Solution,http://www.workproducts.com/#,https://www.businesswire.com/news/home/20090720005730/en/Microsoft-WorkProducts-Partner-Deliver-MatterSpace-ELM-eDiscovery,
+4,FIRM0021,LiveOffice,Legal Practice Management,USA,California,1998,Corporate,KM,eDiscovery,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/liveoffice#section-overview,https://www.computerworld.com/article/2501427/cloud-computing/symantec-acquires-cloud-storage-vendor-liveoffice.html,Cloud-based data archiving and storage
+5,FIRM0022,vLex,Legal Research,Spain,Barcelona,1998,Corporate,Legal Research,KM,NONE,1,1,Point Solution,https://vlex.com/,,
+6,FIRM0025,LegalZoom,Legal Document Automation,USA,California,1999,Consumer,Contracts,Peak Load / Staffing,NONE,0,0,Point Solution,https://www.legalzoom.com/country/au,,LegalZoom also provides incorporation and trademark services for corporations (SME market)
+7,FIRM0027,Workshare,Legal Analytics,UK,London,1999,Corporate,Contracts,Legal Research,NONE,0,0,Point Solution,https://www.workshare.com/,https://www.workshare.com/product,"Workshare's platform help compare, protect and share legal documents. Help track and compare amendments."
+8,FIRM0028,Exari Systems,Legal Document Automation,Australia,Melbourne,1999,Corporate,Contracts,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.exari.com/,,Exari provides contract management solution and also analytics of contract
+9,FIRM0030,Axiom,Legal Marketplace,USA,New York,2000,Corporate,Peak Load / Staffing,DealTech,RegTech,1,0,Integrated Solution,https://www.axiomlaw.com/,https://www.axiomlaw.com/solutions/diligence-integration-support,
+10,FIRM0031,Catalyst Repository Systems,E-Discovery,USA,Denvar,2000,Corporate,eDiscovery,Legal Ops,NONE,1,0,Integrated Solution,https://catalystsecure.com/,,
+11,FIRM0036,RealPractice,Legal Practice Management,USA,California,2000,Corporate,Contracts,LitTech ,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/realpractice#section-overview,,Acquired by ReachLocal but can't seem to find RealPractice's solutions on ReachLocal's website.
+12,FIRM0037,RPost,Legal Practice Management,USA,Los Angeles,2000,Corporate,Contracts,Other Practice Tech,NONE,0,0,Point Solution,https://www.rpost.com/,,"E-delivery proof, encryption an electronic signatures"
+13,FIRM0041,Relativity (previously kCura),E-Discovery,USA,Chicago,2013,Corporate,eDiscovery,Other Practice Tech,NONE,1,0,Point Solution,https://www.relativity.com/,,
+14,FIRM0042,BigTime Software,Legal Practice Management,USA,Chicago,2002,Corporate,Legal Ops,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.bigtime.net/,,
+15,FIRM0045,DocuSign,Legal Practice Management,USA,San Francisco,2003,Corporate,Contracts,Other Practice Tech,NONE,0,0,Point Solution,https://www.docusign.com.au/,,
+16,FIRM0050,RiverGlass,Legal Analytics,USA,Illinois,2003,Corporate,eDiscovery,Other Practice Tech,NONE,1,0,Point Solution,https://www.crunchbase.com/organization/riverglass-inc#section-overview,,Acquired by ASG Technologies in 2003
+17,FIRM0051,XMLAW,Legal Practice Management,USA,Boston,2003,Corporate,Contracts,Other Practice Tech,NONE,0,0,Integrated Solution,https://www.crunchbase.com/organization/xmlaw,,
+18,FIRM0053,Gust,Legal Marketplace,USA,New York,2004,Corporate,DealTech,NONE,NONE,0,0,Integrated Solution,https://gust.com/,,Gust connects startups to angel investors through its platform for funding deals
+19,FIRM0055,PSS Systems,E-Discovery,USA,California,2004,Corporate,eDiscovery,Workflow & PM,NONE,0,0,Integrated Solution,https://www.ibm.com/cloud/automation-software/enterprise-content-management,https://www.crunchbase.com/organization/pss-systems#section-overview,
+20,FIRM0057,Logikcull,Legal Practice Management,USA,San Francisco,2004,Corporate,eDiscovery,NONE,NONE,1,0,Point Solution,https://logikcull.com/,,
+21,FIRM0058,Anaqua,Legal Practice Management,USA,Boston,2004,Corporate,Workflow & PM,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.anaqua.com/,,
+22,FIRM0059,Brainspace,Legal Document Automation,USA,Texas,2005,Corporate,eDiscovery,NONE,NONE,1,0,Point Solution,https://www.brainspace.com/,,
+23,FIRM0060,EchoSign (now Adobe eSign),Legal Document Automation,USA,Palo Alto,2005,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://acrobat.adobe.com/au/en/sign.html,,
+25,FIRM0063,Pbworks,Legal Document Automation,USA,California,2005,Corporate,Workflow & PM,KM,Other Practice Tech,1,0,Integrated Solution,http://www.pbworks.com/legal.html,,
+26,FIRM0064,Pramata,Legal Analytics,USA,California,2005,Corporate,Legal Ops,NONE,NONE,1,1,Integrated Solution,https://www.pramata.com/,,
+27,FIRM0065,AudioCaseFiles,E-Discovery,USA,Boston,2006,Corporate,eDiscovery,Other Practice Tech,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/audiocasefiles#section-overview,,
+28,FIRM0066,Avvo,Legal Marketplace,USA,Seattle,2006,Consumer,Peak Load / Staffing,Contracts,NONE,0,0,Point Solution,https://www.avvo.com/,,
+29,FIRM0069,Brightleaf,Legal Analytics,USA,Massachusetts,2006,Corporate,Legal Research,eDiscovery,NONE,1,1,Point Solution,http://www.brightleaf.com/,,
+30,FIRM0070,CosmoLex,Legal Practice Management,USA,New Jersey,2013,Corporate,Legal Ops,Other Practice Tech,KM,1,0,Integrated Solution,https://canada.cosmolex.com/,,
+31,FIRM0071,Firmex,Legal Practice Management,Canada,Toronto,2006,Corporate,DealTech,LitTech ,NONE,0,0,Integrated Solution,https://www.firmex.com/virtual-data-room/,,Virtual data room
+32,FIRM0072,Innography,Legal Practice Management,USA,Texas,2006,Corporate,Other Practice Tech,NONE,NONE,1,0,Point Solution,https://www.innography.com/,,
+33,FIRM0073,TeamPatent,Legal Practice Management,USA,California,2006,Corporate,Other Practice Tech,NONE,NONE,0,0,Point Solution,http://www.teampatent.com/,,Secure patent workspace that allow applicants and examiners to conduct examination through web browers.
+35,FIRM0076,Intelligize,Legal Research,USA,New York,2007,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://www.intelligize.com/,,Acquired by LexisNexis
+36,FIRM0079,RightsFlow,Legal Document Automation,USA,New York,2007,Corporate,Legal Ops,NONE,NONE,0,0,Integrated Solution,https://www.crunchbase.com/organization/rightsflow#section-overview,,"Acquired by Google. Provider of mechanical licensing and royalty accounting, reporting, and payment services for online music companies, record companies, distributors, artists"
+37,FIRM0084,Clearpath Immigration,Legal Document Automation,USA,Miami,2008,Consumer,Contracts,NONE,NONE,1,0,Integrated Solution,https://www.crunchbase.com/organization/clearpath-immigration#section-overview,,Software solution that help with U.S. immigration filing process
+38,FIRM0085,Clio,Legal Practice Management,Canada,Burnaby,2008,Corporate,Other Practice Tech,Legal Ops,Legal Research,1,0,Integrated Solution,https://www.clio.com/,,
+39,FIRM0091,Rocket Lawyer,Legal Document Automation,USA,San Francisco,2008,Consumer,Contracts,Peak Load / Staffing,NONE,0,0,Point Solution,https://www.rocketlawyer.com/,,
+40,FIRM0092,RPX Corporation,Legal Research,USA,San Francisco,2008,Corporate,Other Practice Tech,NONE,NONE,0,0,Point Solution,https://www.rpxcorp.com/about-rpx/,,"P provider of patent risk solutions, offering defensive buying, acquisition syndication, patent intelligence, insurance services and advisory services. Acquired in 2018 by HGGC"
+41,FIRM0097,TurboPatent,Legal Practice Management,USA,Seattle,2008,Corporate,Other Practice Tech,Legal Research,NONE,1,1,Integrated Solution,https://turbopatent.com/,,
+42,FIRM0099,Zapproved,Legal Practice Management,USA,Portland,2008,Corporate,eDiscovery,LitTech ,NONE,1,0,Integrated Solution,https://www.zapproved.com/about-us/company/,,
+43,FIRM0100,experdocs (Archevos Corporation),Legal Practice Management,USA,Las Vegas,2009,Corporate,Contracts,KM,NONE,0,0,Integrated Solution,https://www.experdocs.com/,,
+44,FIRM0106,Intake 123,Legal Practice Management,USA,Colorado,2009,Corporate,Other Practice Tech,NONE,NONE,1,0,Point Solution,http://www.intake123.com/,,
+45,FIRM0107,Lex Machina,Legal Analytics,USA,Menlo Park,2009,Corporate,Legal Research,LitTech ,NONE,1,0,Point Solution,https://lexmachina.com/about/,,
+46,FIRM0115,Arachnys,Legal Practice Management,UK,London,2010,Corporate,Legal Research,Other Practice Tech,NONE,1,0,Point Solution,https://www.arachnys.com/,,
+47,FIRM0118,Contract Live,Legal Document Automation,France,Paris,2010,Corporate,Contracts,KM,NONE,0,0,Integrated Solution,https://www.linkedin.com/company/witchbird_contract_live/,,Don't seem to have an active website and the co-founder is now co-fouder of Concord
+48,FIRM0119,Contractually,Legal Document Automation,Canada,Vancouver,2010,Corporate,Contracts,NONE,NONE,0,0,Integrated Solution,https://www.linkedin.com/company/contractually/,,Now part of Coupa
+49,FIRM0124,elAbogado,Legal Marketplace,Spain,Barcelona,2010,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.elabogado.com/,,
+50,FIRM0125,Everlaw,Legal Practice Management,USA,California,2010,Corporate,Other Practice Tech,Legal Ops,Workflow & PM,1,0,Integrated Solution,https://www.everlaw.com/,,
+51,FIRM0126,ExpertBids.com,Legal Marketplace,USA,Chicago,2010,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,http://expertbids.com/,,"ExpertBids aims to help entrepreneurs and businesses to get personalised bids from legal, accounting or consulting professionals"
+52,FIRM0130,IP Shark,Legal Research,USA,Los Angeles,2010,Corporate,Other Practice Tech,NONE,NONE,1,0,Point Solution,https://www.ipshark.com/,,
+53,FIRM0131,IP Street,Legal Analytics,USA,Washington,2010,Corporate,Other Practice Tech,NONE,NONE,1,0,Point Solution,https://www.linkedin.com/company/ip-street/?originalSubdomain=au,,
+54,FIRM0133,LawBooth,Legal Marketplace,Canada,Ontario,2015,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,http://www.lawbooth.ca/,,Rebranded as JustLegal
+55,FIRM0135,Manzama,E-Discovery,USA,Oregon,2010,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,http://manzama.com/,,
+56,FIRM0144,Seal Software,Legal Practice Management,USA,California,2010,Corporate,Legal Research,eDiscovery,NONE,1,1,Integrated Solution,https://www.seal-software.com/platforms,,
+57,FIRM0146,The Expert Institute,Legal Marketplace,USA,New York,2010,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.theexpertinstitute.com/,,Connect law firms to expert witnesses
+59,FIRM0150,Scrive,Legal Document Automation,Sweden,Stockholm,2010,Corporate,Contracts,Workflow & PM,NONE,0,0,Point Solution,https://www.scrive.com/,,E-signature provider
+60,FIRM0151,Assently,Legal Document Automation,Sweden,Stockholm,2010,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://assently.com/,,E-signature provider
+61,FIRM0154,AfterSteps,Legal Document Automation,USA,New York,2011,Consumer,Contracts,KM,NONE,0,0,Point Solution,http://www.aftersteps.com/,,Online end-of-life planning platform
+62,FIRM0155,AgileLaw,Legal Practice Management,USA,Austin,2011,Corporate,LitTech ,Workflow & PM,NONE,0,0,Point Solution,https://www.agilelaw.com/,,
+63,FIRM0157,Apperio,Legal Analytics,UK,London,2011,Corporate,Legal Ops,Workflow & PM,NONE,1,0,Integrated Solution,https://www.apperio.com/,,
+64,FIRM0159,AttorneyFee,Legal Marketplace,USA,California,2011,Consumer,Legal Ops,Peak Load / Staffing,NONE,0,0,Point Solution,https://www.linkedin.com/company/attorneyfee-com/,,AttorneyFee was acquired by LegalZoom
+65,FIRM0161,ClaimKit,Legal Document Automation,USA,Kansas,2012,Corporate,Workflow & PM,eDiscovery,NONE,1,0,Point Solution,http://claimkit.com/,,
+66,FIRM0162,Clerky,Legal Document Automation,USA,California,2011,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://www.clerky.com/,,
+67,FIRM0165,Docracy,Legal Document Automation,USA,New York,2011,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/docracy/?originalSubdomain=au,,
+68,FIRM0167,FindMySong,Legal Document Automation,USA,Los Angeles,2011,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/findmysong#section-overview,,
+69,FIRM0169,Hire An Esquire,Legal Marketplace,USA,New York,2011,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://hireanesquire.com/,,
+70,FIRM0170,Infinote,Legal Document Automation,USA,California,2011,Corporate,Legal Research,eDiscovery,NONE,1,1,Point Solution,http://infinote.com/,,
+71,FIRM0172,iubenda,Legal Document Automation,Italy,Milano,2011,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://www.iubenda.com/en/,,Help companies' websites and apps compliant with law across multiple countries and legislations
+72,FIRM0174,JusticeBox,Online Dispute Resolution,USA,New York,2011,Corporate,LitTech ,Workflow & PM,NONE,0,0,Point Solution,http://justicebox.net/,,Online dispute resolution
+73,FIRM0177,LegalFácil,Legal Document Automation,Argentina,Buenos Aires,2011,Consumer,Peak Load / Staffing,Contracts,NONE,0,0,Point Solution,https://legalfacil.com/en/,,
+74,FIRM0178,Mimecast,E-Discovery,UK,London,2003,Corporate,eDiscovery,NONE,NONE,1,0,Point Solution,https://www.mimecast.com/,,
+75,FIRM0179,Modria,Online Dispute Resolution,USA,California,2011,Corporate,LitTech ,Workflow & PM,NONE,0,0,Point Solution,https://www.tylertech.com/solutions-products/modria,,Online dispute resolution. Acquired by Tyler Technologies
+76,FIRM0181,PacerPro,Legal Research,USA,San Francisco,2011,Corporate,Legal Research,NONE,NONE,0,0,Point Solution,https://www.pacerpro.com/,,
+77,FIRM0186,Quolaw,Legal Practice Management,Spain,Barcelona,2011,Corporate,Workflow & PM,Legal Ops,NONE,1,0,Integrated Solution,http://quolaw.com/,,
+78,FIRM0191,SupportPay,Legal Document Automation,USA,California,2011,Consumer,Legal Ops,Contracts,NONE,0,0,Integrated Solution,https://supportpay.com/product/how-it-works/,,"SupportPay helps parents manage child support and share expenses, resolve payment disputes, and share and track all documents and receipts related to their shared payments. "
+79,FIRM0192,TitanFile,Legal Practice Management,Canada,Ontario,2011,Corporate,Contracts,Workflow & PM,NONE,0,0,Point Solution,https://www.titanfile.com/,,Software that helps exchange files securely
+80,FIRM0198,AI Patents,Legal Research,USA,Durham,2012,Corporate,Other Practice Tech,Legal Research,NONE,1,1,Point Solution,http://www.aipatents.com/,,AI Patents is an intelligent patent search engine
+81,FIRM0203,BleuAcre Systems,Legal Practice Management,USA,Atlanta,2012,Corporate,LitTech ,KM,Workflow & PM,0,0,Integrated Solution,https://www.crunchbase.com/organization/bleuacre-systems,,
+82,FIRM0204,Bridge US,Legal Marketplace,USA,San Francisco,2011,Corporate,Workflow & PM,NONE,NONE,0,0,Integrated Solution,https://www.bridge.us/,, Bridge is a platform that combines proprietary workflow technology with world-class legal expertise to simplify the immigration process
+83,FIRM0206,CaseFlex,Legal Research,USA,New York,2012,Corporate,Legal Research,NONE,NONE,0,0,Point Solution,https://www.g2crowd.com/categories/legal-case-management,,
+84,FIRM0208,cicayda,Legal Practice Management,USA,Nashville,2012,Corporate,Workflow & PM,eDiscovery,NONE,1,0,Integrated Solution,https://cicayda.com/,,
+85,FIRM0209,ClauseMatch,Legal Document Automation,UK,London,2012,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,http://www.clausematch.com/,,
+86,FIRM0210,ClearContract,Legal Document Automation,USA,Illinois,2012,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.crunchbase.com/organization/clearcontract#section-overview,,Don't think the company is still active
+87,FIRM0213,ContractRoom,Legal Document Automation,USA,California,2012,Corporate,Contracts,Workflow & PM,NONE,1,1,Integrated Solution,http://www.contractroom.com/#features,,
+88,FIRM0217,CS Disco,Legal Practice Management,USA,Houston,2012,Corporate,Workflow & PM,eDiscovery,NONE,1,1,Integrated Solution,https://www.csdisco.com/,,
+89,FIRM0220,eBrevia,Legal Analytics,USA,Stamford,2012,Corporate,Contracts,DealTech,Workflow & PM,1,1,Integrated Solution,https://ebrevia.com/#whyebrevia,,"Uses machine learning technology to conduct legal document review for due diligence, contract maangemet and document drafting"
+90,FIRM0223,Carta (previously eShares),Legal Document Automation,USA,Palo Alto,2012,Corporate,Contracts,NONE,NONE,1,0,Integrated Solution,https://carta.com/,,
+91,FIRM0225,everplans,Legal Document Automation,USA,New York,2012,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://www.everplans.com/,,"Everplan is a secure, digital archive."
+92,FIRM0231,ipnexus,Legal Marketplace,Hong Kong,Hong Kong,2012,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.ipnexus.com/,, Global marketplace for IP
+93,FIRM0233,Judicata,Legal Research,USA,San Francisco,2012,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://www.judicata.com/,,
+94,FIRM0235,Juristat,Legal Analytics,USA,St Louis,2012,Corporate,Other Practice Tech,Contracts,NONE,1,0,Point Solution,https://www.juristat.com/,,
+95,FIRM0239,Lawdingo,Legal Marketplace,USA,New York,2012,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.lawdingo.com/,,
+96,FIRM0241,LawKick,Legal Marketplace,USA,Santa Monica,2012,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/lawkick/,,
+97,FIRM0246,LegalReach,Legal Marketplace,USA,San Francisco,2012,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.legalreach.com/,,
+98,FIRM0248,LEVERTON,Legal Document Automation,Germany,Berlin,2012,Corporate,Legal Research,Contracts,NONE,1,1,Point Solution,https://www.leverton.ai/,,
+99,FIRM0253,Mark43,E-Discovery,USA,New York,2012,Corporate,Legal Ops,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.mark43.com/,,"LegalTech solution catered to public safety service, specifically allowing first responders to collect, manage, analyze, and share information."
+100,FIRM0260,Peppercorn,Legal Document Automation,Italy,Milano,2012,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/peppercorn-it/,,
+101,FIRM0262,Qodeo,Legal Research,UK,London,2012,Corporate,Peak Load / Staffing,NONE,NONE,1,0,Point Solution,https://www.qodeo.com/,,
+102,FIRM0263,Ravel Law,Legal Research,USA,San Francisco,2012,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,http://ravellaw.com/,,Ravel Law was acquired by LexisNexis
+103,FIRM0265,Reorg Research,Legal Practice Management,USA,New York,2012,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://reorg-research.com/home,,
+104,FIRM0267,RETiDoc,Legal Document Automation,Bulgaria,Sofia,2012,Corporate,Contracts,eDiscovery,NONE,1,0,Point Solution,https://www.retidoc.com/,,
+105,FIRM0269,RSVP Law,Legal Marketplace,USA,California,2013,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://www.linkedin.com/company/rsvp-law/,,
+106,FIRM0271,Shake,Legal Document Automation,USA,New York,2012,Consumer,Contracts,NONE,NONE,0,0,Point Solution,http://www.shakelaw.com/,,"Mobile app that allows users to create, sign and send legally binding agreements"
+107,FIRM0273,Startup Quest,Legal Education,USA,Colorado,2012,Corporate,Legal Education,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/startup-quest/,,Online e-learning platform for startups and SMEs.
+108,FIRM0276,UpCounsel,Legal Marketplace,USA,San Francisco,2012,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.upcounsel.com/,,
+109,FIRM0278,Viewabill,Legal Analytics,USA,Columbus,2012,Corporate,Legal Ops,NONE,NONE,1,0,Integrated Solution,https://www.viewabill.com/pages/home,,
+110,FIRM0281,Wevorce,Legal Document Automation,USA,Idaho,2012,Consumer,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.wevorce.com/,,
+111,FIRM0282,wireLawyer,Legal Marketplace,USA,New York,2012,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,http://wirelawyer.herokuapp.com/,,The platform also creates an attorney to attorney referral community online
+112,FIRM0283,WordRake,Legal Practice Management,USA,Washington,2012,Corporate,Other Practice Tech,NONE,NONE,0,0,Point Solution,https://www.wordrake.com/,,WordRake is an editing software for lawyers
+113,FIRM0284,ZeekBeek,Legal Marketplace,USA,Delaware,2012,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/cloudlaw--zeekbeek-#section-overview,,
+114,FIRM0285,TrademarkNow,Legal Document Automation,USA,New York,2012,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,https://www.trademarknow.com/,,
+115,FIRM0288,AdviseHub,Legal Marketplace,USA,California,2013,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/advisehub/,,
+116,FIRM0290,AirHelp,Legal Document Automation,USA,New York,2013,Consumer,Contracts,NONE,NONE,1,0,Integrated Solution,https://www.airhelp.com/en/,,
+117,FIRM0291,Alt Legal,Legal Practice Management,USA,New York,2013,Corporate,Other Practice Tech,Workflow & PM,NONE,1,0,Integrated Solution,https://www.altlegal.com/,,Alt Legal's automated US trademark docketing software detects and updates changes to  filings and all statutory deadlines
+118,FIRM0294,Beagle.ai,Legal Analytics,Canada,Ontario,2013,Corporate,Legal Research,NONE,NONE,1,1,Integrated Solution,https://www.beagle.ai/,,
+119,FIRM0300,Captain Contrat,Legal Document Automation,France,Paris,2013,Corporate,Contracts,Peak Load / Staffing,NONE,0,0,Integrated Solution,https://www.captaincontrat.com/,,Captain Contrat helps startups & SMEs by providing legal deocuments and network of lawyers
+120,FIRM0302,CaseRails,Legal Document Automation,USA,New York,2013,Corporate,Workflow & PM,Contracts,KM,1,0,Integrated Solution,https://www.linkedin.com/company/caserails/,,
+121,FIRM0303,Casetext,Legal Research,USA,San Francisco,2013,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,https://casetext.com/features,,
+122,FIRM0307,ClearView Social,Legal Practice Management,USA,New York,2013,Corporate,Other Practice Tech,NONE,NONE,1,1,Point Solution,https://clearviewsocial.com/,,
+123,FIRM0309,Contract Cloud,Legal Document Automation,USA,Los Angeles,2013,Corporate,Workflow & PM,LitTech ,NONE,0,0,Point Solution,https://www.linkedin.com/company/contract-cloud-inc/,,
+124,FIRM0310,Counselytics,Legal Analytics,USA,New York,2014,Corporate,Legal Research,eDiscovery,NONE,1,1,Point Solution,http://counselytics.com/,,Acquired by Conga recently
+125,FIRM0311,Court Innovations (now Matterhorn),Online Dispute Resolution,USA,Michigan,2014,Corporate,LitTech ,Workflow & PM,Legal Ops,1,0,Integrated Solution,https://getmatterhorn.com/,,"Online dispute resolution. Matterhorn allows courts and agencies to handle large volumes of infractions, disputes, warrants and other cases—all online"
+126,FIRM0313,CrowdJustice,Legal Marketplace,UK,London,2013,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.crowdjustice.com/,,Crowdfunding platform for legal action
+127,FIRM0325,Fair and Square,Online Dispute Resolution,Ireland,Dublin,2013,Consumer,LitTech ,Workflow & PM,NONE,0,0,Integrated Solution,http://fairandsquare.ie/,,Online dispute resolution. Solution for consumer market to negotiate over personal effects after separation or after someone has passed away
+128,FIRM0326,FiscalNote,Legal Analytics,USA,Washington,2013,Corporate,Workflow & PM,NONE,NONE,1,1,Integrated Solution,https://fiscalnote.com/,,
+129,FIRM0327,Fixed (now Lawgix),Legal Marketplace,USA,San Francisco,2013,Corporate,Peak Load / Staffing,Workflow & PM,NONE,1,0,Integrated Solution,https://www.lawgixlaw.com/,,
+130,FIRM0333,Ipselex,Legal Research,Hong Kong,Hong Kong,2013,Corporate,Other Practice Tech,NONE,NONE,1,1,Integrated Solution,https://www.crunchbase.com/organization/ipselex#section-overview,,
+131,FIRM0335,JustLegal,Legal Marketplace,USA,Texas,2013,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/congo#section-overview,,
+132,FIRM0344,LawyerFair,Legal Marketplace,UK,London,2013,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/lawyerfair/,,
+133,FIRM0348,Legal Hero,Legal Marketplace,USA,New York,2013,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/legal-hero-llc/,,
+134,FIRM0351,LegalCrunch,Legal Document Automation,USA,New York,2012,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/legalcrunch#section-overview,,
+135,FIRM0354,LegalSifter,Legal Analytics,USA,Pittsburgh,2013,Corporate,Legal Research,KM,NONE,1,1,Integrated Solution,https://www.legalsifter.com/legalsifter-product,,
+136,FIRM0356,LegalTrek,Legal Practice Management,Germany,Berlin,2013,Corporate,Other Practice Tech,Workflow & PM,Legal Ops,1,0,Integrated Solution,https://legaltrek.com/,,
+137,FIRM0362,Lexdir,Legal Marketplace,Spain,Espina,2013,Corporate,Legal Research,Peak Load / Staffing,NONE,0,0,Integrated Solution,https://www.linkedin.com/company/lexdir/,,
+138,FIRM0365,Loudr,Legal Document Automation,USA,San Francisco,2013,Corporate,Contracts,NONE,NONE,1,0,Integrated Solution,https://loudr.fm/,,"Acquired by Spotify. Loudr builds products and services that make it easy for content creators, aggregators and digital music services to identify, track and pay music publishers"
+139,FIRM0367,ModusP,Legal Research,USA,Palo Alto,2013,Corporate,KM,NONE,NONE,1,0,Point Solution,https://www.crunchbase.com/organization/modusp#section-overview,,
+140,FIRM0368,MyDocSafe,Legal Document Automation,UK,Bedford,2013,Corporate,Contracts,Workflow & PM,Legal Ops,1,0,Integrated Solution,https://mydocsafe.com/uk/,,
+141,FIRM0369,NetLex,Legal Practice Management,Italy,Rome,2013,Corporate,Legal Ops,Workflow & PM,Other Practice Tech,1,0,Integrated Solution,https://www.netlexweb.com/,,
+142,FIRM0375,Planned Departure,Legal Document Automation,UK,London,2013,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/planned-departure-pvt-lts/,,
+143,FIRM0380,Shoobx,Legal Document Automation,USA,Boston,2013,Corporate,Contracts,Workflow & PM,Legal Ops,1,0,Integrated Solution,https://www.shoobx.com/,,
+144,FIRM0381,SimpleLegal,Legal Analytics,USA,California,2013,Corporate,Legal Ops,Workflow & PM,NONE,1,0,Integrated Solution,https://www.simplelegal.com/,,
+145,FIRM0384,Swiftcourt,Online Dispute Resolution,Denmark,Copenhagen,2013,Corporate,LitTech ,Contracts,NONE,0,0,Integrated Solution,https://swiftcourt.com/en/how-it-works,,Swiftcourt is an online arbitration platform that enables individuals and small- & medium-sized companies to secure their transactions and contracts on- and offline
+146,FIRM0386,TenderScout,Legal Practice Management,Ireland,Dublin,2013,Corporate,Other Practice Tech,NONE,NONE,1,0,Point Solution,https://www.tenderscout.com/,,
+147,FIRM0387,Termsheet.io,Legal Document Automation,India,Chennai,2013,Corporate,DealTech,Workflow & PM,NONE,1,0,Point Solution,https://www.crunchbase.com/organization/termsheet-io#section-overview,,
+148,FIRM0389,Tunnel X,Legal Practice Management,USA,New York,2013,Corporate,Workflow & PM,NONE,NONE,0,0,Point Solution,https://www.tunnelx.com/,,
+149,FIRM0391,Verinvest Corporation,Legal Practice Management,USA,Pennsylvania,2013,Corporate,Contracts,Workflow & PM,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/verinvest-corporation#section-overview,,
+150,FIRM0396,LawPath,Legal Document Automation,Australia,Sydney,2013,Corporate,Contracts,Peak Load / Staffing,NONE,0,0,Integrated Solution,https://lawpath.com.au/,,
+151,FIRM0397,PactSafe,Legal Document Automation,USA,Indianapolis,2013,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.pactsafe.com/features,,
+152,FIRM0400,Advocado,Legal Marketplace,Germany,Greifswald,2014,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.advocado.de/startseite.html,,
+153,FIRM0403,Audvi,E-Discovery,USA,San Diego,2014,Consumer,eDiscovery,NONE,NONE,0,0,Point Solution,http://audvi.com/,,Audvi App assists dyslexic and anybody who quickly needs reading assistance 
+154,FIRM0407,Brāv,Online Dispute Resolution,USA,Detroit,2014,Consumer,Workflow & PM,NONE,NONE,0,0,Point Solution,http://brav.org/,,
+155,FIRM0408,Capture.it,Legal Practice Management,Canada,Toronto,2008,Corporate,Legal Ops,NONE,NONE,1,0,Integrated Solution,https://www.crunchbase.com/organization/captureit#section-overview,,
+156,FIRM0411,Checkr,Legal Document Automation,USA,San Francisco,2014,Corporate,Workflow & PM,NONE,NONE,1,0,Point Solution,https://checkr.com/product/,,
+157,FIRM0416,ContratosApp,Legal Document Automation,Mexico,Mexico City,2014,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/contratosapp#section-overview,,
+158,FIRM0423,DATY,Legal Research,Czech Republic,Praha,2014,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://www.crunchbase.com/organization/daty#section-overview,,Acquired by FIRMO.cz
+159,FIRM0424,DealCircle,Legal Document Automation,Denmark,Copenhagen,2013,Corporate,Contracts,Workflow & PM,DealTech,0,0,Integrated Solution,https://www.crunchbase.com/organization/dealcircle#section-overview,,
+160,FIRM0431,Eris Industries (Monax),Legal Document Automation,UK,London,2014,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://monax.io/features/,,
+161,FIRM0433,Gadfly Legal Technologies (now LeasePilot),Legal Document Automation,USA,Boston,2014,Corporate,Contracts,NONE,NONE,1,0,Point Solution,https://leasepilot.co/,,Rebranded as LeasePilot
+162,FIRM0436,Heureka Software,Legal Practice Management,USA,Cleveland,2014,Corporate,eDiscovery,Legal Research,NONE,1,0,Point Solution,https://www.heurekasoftware.com/,,
+163,FIRM0439,Immuta,Legal Analytics,USA,Maryland,2014,Corporate,Workflow & PM,Legal Research,NONE,1,1,Integrated Solution,https://www.immuta.com/,,
+164,FIRM0442,Ironclad,Legal Document Automation,USA,San Francisco,2014,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://ironcladapp.com/,,
+165,FIRM0443,jEugene,Legal Analytics,USA,New York,2014,Corporate,Legal Research,Workflow & PM,NONE,1,0,Point Solution,https://www.crunchbase.com/organization/jeugene,,
+166,FIRM0444,Jurispect,Legal Analytics,USA,San Francisco,2014,Corporate,RegTech,Legal Research,NONE,1,0,Integrated Solution,https://www.compliance.ai/,,Rebranded as Compliance AI
+167,FIRM0445,JustiServ,Legal Marketplace,USA,Boston,2014,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/justiserv,,
+168,FIRM0448,Knomos Knowledge Management Inc,Legal Research,Canada,Vancouver,2014,Corporate,KM,Legal Research,NONE,1,1,Point Solution,http://knomos.law/,,
+169,FIRM0449,Lar21,Legal Document Automation,Brazil,São Paulo,2014,Corporate,Contracts,NONE,NONE,1,0,Integrated Solution,http://www.lar21.com/,,
+170,FIRM0458,LawGeex,Legal Document Automation,Israel,Tel Aviv,2014,Corporate,Legal Research,Workflow & PM,NONE,1,1,Integrated Solution,https://www.lawgeex.com/,,
+171,FIRM0460,LawGo,Legal Marketplace,USA,New York,2014,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/lawgo#section-overview,,
+172,FIRM0461,LawTrades,Legal Marketplace,USA,New York,2014,Consumer,Peak Load / Staffing,Workflow & PM,NONE,0,0,Integrated Solution,https://www.lawtrades.com/,,
+173,FIRM0463,Legal Inc,Legal Document Automation,USA,Texas,2014,Corporate,Contracts,RegTech,Workflow & PM,1,0,Integrated Solution,https://legalinc.com/,,
+174,FIRM0467,Legalix,Legal Document Automation,Mexico,Mexico City,2014,Corporate,Contracts,KM,Workflow & PM,1,0,Integrated Solution,https://www.legalix.com/,,
+175,FIRM0471,Lexoo,Legal Marketplace,UK,London,2014,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.lexoo.co.uk/,,
+176,FIRM0474,MeWe.Org (now CoInspect),Legal Compliance,USA,California,2014,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,https://coinspectapp.com/,,
+177,FIRM0476,MisAbogados.com,Legal Marketplace,Chile,Santiago,2014,Consumer,Peak Load / Staffing,Workflow & PM,NONE,0,0,Point Solution,https://www.misabogados.com/,,
+178,FIRM0477,Nventi,Legal Analytics,USA,Berkeley,2014,Corporate,Legal Research,Workflow & PM,NONE,1,0,Point Solution,https://www.crunchbase.com/organization/nventi#section-overview,,
+179,FIRM0481,Premonition,Legal Analytics,USA,Miami,2014,Corporate,LitTech ,Legal Research,NONE,1,1,Point Solution,https://www.premonition.ai/,,
+180,FIRM0482,Quicklegal,Legal Marketplace,USA,Sacramento,2014,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/quick-legal/,,
+181,FIRM0487,ROSS Intelligence,Legal Research,USA,San Francisco,2014,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,https://rossintelligence.com/,,
+182,FIRM0492,Stampery,Legal Document Automation,USA,California,2015,Corporate,Contracts,Legal Research,Workflow & PM,1,0,Integrated Solution,https://stampery.com/,,Blockchain technology to authenticate and certify contracts
+183,FIRM0495,Suralink,Legal Document Automation,USA,Utah,2014,Corporate,Workflow & PM,Contracts,NONE,1,0,Integrated Solution,https://www.suralink.com/#top,,
+184,FIRM0499,Trustatom,Legal Document Automation,Canada,Vancouver,2014,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.linkedin.com/company/trustatom/,,
+185,FIRM0500,Tyche,Legal Research,USA,New York,2014,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://www.tycherisk.co/,,
+186,FIRM0508,X2X Community (The Family Community),Legal Marketplace,USA,Maine,2014,Consumer,Workflow & PM,Legal Ops,NONE,0,0,Integrated Solution,http://www.thefamilycommunity.com/,,
+187,FIRM0509,Yuristiya,Legal Marketplace,Russia,Moscow,2014,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,http://yuristiya.com/,,
+188,FIRM0510,FairClaim,Online Dispute Resolution,USA,Los Angeles,2014,Corporate,LitTech ,Workflow & PM,Legal Ops,0,0,Integrated Solution,https://www.fairclaims.com/how_it_works,,Online dispute resolution
+190,FIRM0513,Allegory Law,Legal Analytics,USA,New York,2011,Corporate,KM,LitTech ,NONE,1,0,Integrated Solution,https://allegorylaw.com/,,
+191,FIRM0517,Ascent Technologies,Legal Document Automation,USA,Chicago,2015,Corporate,RegTech,Workflow & PM,Legal Research,1,1,Integrated Solution,https://www.ascentregtech.com,,
+192,FIRM0519,avvoka,Legal Practice Management,UK,London,2015,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://avvoka.com/,,
+193,FIRM0528,CaseHub,Legal Marketplace,UK,London,2014,Consumer,Peak Load / Staffing,LitTech ,NONE,0,0,Point Solution,http://casehub.com/,,
+194,FIRM0533,Clause,Legal Document Automation,USA,New York,2015,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,http://clause.io/,,Smart contracts using blockchain technologies that also enables automation
+195,FIRM0548,DivorceSecure,Online Dispute Resolution,USA,Memphis,2015,Corporate,LitTech ,Other Practice Tech,NONE,1,0,Integrated Solution,https://www.crunchbase.com/organization/divorcesecure,,DivorceSecure is an online platform for divorce attorneys that enables them to manage their clients.
+196,FIRM0553,Esquify,Legal Document Automation,USA,Chicago,2014,Corporate,eDiscovery,Workflow & PM,Peak Load / Staffing,1,1,Integrated Solution,http://www.esquify.com/,,
+197,FIRM0581,Legal Logs,Legal Practice Management,USA,Baltimore,2012,Consumer,Workflow & PM,Contracts,eDiscovery,1,0,Integrated Solution,https://www.legallogs.com/,,
+198,FIRM0583,Legal Robot,Legal Analytics,USA,San Francisco,2013,Corporate,Legal Research,eDiscovery,NONE,1,1,Integrated Solution,https://www.legalrobot.com/,,
+199,FIRM0586,LegalClick,Legal Marketplace,USA,Florida,2015,Consumer,Peak Load / Staffing,Contracts,NONE,0,0,Integrated Solution,https://www.legalclick.com/,,
+200,FIRM0587,Legalese,Legal Document Automation,Singapore,Singapore,2015,Corporate,Contracts,NONE,NONE,1,0,Point Solution,https://legalese.com/index,,
+201,FIRM0599,My Exit Strategy (now Cake),Legal Document Automation,USA,Cambridge,2015,Consumer,Contracts,NONE,NONE,0,0,Integrated Solution,https://www.joincake.com/,,Digital platform for advance care planning and end-of-life planning.
+202,FIRM0608,openlaws,Legal Research,Austria,Salzburg,2015,Corporate,Legal Research,RegTech,NONE,1,0,Integrated Solution,https://openlaws.com/home,,
+203,FIRM0610,Ping,Legal Practice Management,USA,Berkerley,2015,Corporate,Legal Ops,NONE,NONE,1,1,Integrated Solution,https://www.timebyping.com/,,
+204,FIRM0614,RiskGenius,Legal Analytics,USA,Kansas,2015,Corporate,Legal Research,RegTech,Workflow & PM,1,1,Integrated Solution,https://www.riskgenius.com/,,
+205,FIRM0616,Should I Sign,Legal Marketplace,USA,New York,2015,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.linkedin.com/company/should-i-sign-inc-/,,
+206,FIRM0620,synergist.io,Legal Practice Management,Germany,Berlin,2015,Corporate,Contracts,Workflow & PM,NONE,1,0,Point Solution,https://synergist.io/,,
+207,FIRM0627,Concord,Legal Document Automation,USA,San Francisco,2015,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.concordnow.com/,,
+208,FIRM0628,Legal Advice Middle East,Legal Marketplace,UAE,Dubai,2015,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://legaladviceme.com/,,
+209,FIRM0629,Libryo,Legal Compliance,UK,London,2015,Corporate,RegTech,KM,NONE,1,0,Integrated Solution,https://libryo.com/,,
+210,FIRM0630,Luminance,Legal Research,UK,London,2016,Corporate,Legal Research,Workflow & PM,NONE,1,1,Point Solution,https://www.luminance.com/technology/,,
+211,FIRM0631,MainLaws,Legal Marketplace,UK,London,2015,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.crunchbase.com/organization/mainlaws-ltd-#section-overview,,
+212,FIRM0632,Onna,Legal Practice Management,Spain,Barcelona,2012,Corporate,eDiscovery,Workflow & PM,DealTech,1,1,Point Solution,https://onna.com/,,
+213,FIRM0633,Юрбюро,Legal Marketplace,Russia,Moscow,2016,Consumer,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,,,
+214,FIRM0634,LegalMatters.com,Legal Document Automation,Netherlands,Amsterdam,2013,Corporate,Contracts,Peak Load / Staffing,NONE,0,0,Integrated Solution,https://www.legalmatters.com/,,
+215,FIRM0637,BurgieLaw,Legal Marketplace,Malaysia,Kuala Lumpur,2016,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.burgielaw.com/,,
+216,FIRM0639,Compensation2Go ,Legal Practice Management,Germany,Bochum,2016,Consumer,LitTech ,Peak Load / Staffing,NONE,1,0,Integrated Solution,https://compensation2go.com/,,Immediate compensation and litigation funding service for air ticketholders whose flights were disrupted.
+217,FIRM0644,Doctrine,Legal Research,France,Paris,2016,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,https://www.doctrine.fr/,,
+218,FIRM0647,Doxly,Legal Practice Management,USA,Indianapolis,2016,Corporate,DealTech,Workflow & PM,NONE,1,0,Integrated Solution,https://doxly.com/,,
+219,FIRM0663,Otonomos,Legal Document Automation,Singapore,Singapore,2016,Corporate,Contracts,NONE,NONE,1,0,Integrated Solution,https://otonomos.com/,,
+220,FIRM0667,Upsolve,Legal Document Automation,USA,New York,2016,Corporate,Contracts,Peak Load / Staffing,NONE,0,0,Integrated Solution,https://www.upsolve.org/,,
+221,FIRM0669,Witnex,Legal Research,USA,Florida,2016,Corporate,LitTech ,Peak Load / Staffing,Workflow & PM,1,0,Integrated Solution,http://www.witnex.com/home,,
+222,FIRM0671,Case.one,Legal Practice Management,USA,California,2010,Corporate,Workflow & PM,Contracts,Legal Ops,1,1,Integrated Solution,https://case.one/,,
+223,FIRM0672,Court Buddy,Legal Marketplace,USA,San Francisco,2015,Consumer,Peak Load / Staffing,Workflow & PM,NONE,0,0,Integrated Solution,https://www.courtbuddy.com/,,
+224,FIRM0673,Granthika Co.,Legal Analytics,USA,California,2016,Corporate,Contracts,KM,NONE,1,1,Point Solution,http://granthika.co/,,
+225,FIRM0674,Headnote,Legal Practice Management,USA,California,2015,Corporate,Legal Ops,NONE,NONE,1,0,Point Solution,https://headnote.com/#!/,,Headnote is an online payment tool for the legal industry
+226,FIRM0675,Juro,Legal Practice Management,UK,London,2015,Corporate,Workflow & PM,Contracts,NONE,1,1,Integrated Solution,https://juro.com/,,
+227,FIRM0676,Legalist,Legal Analytics,USA,San Francisco,2008,Consumer,LitTech ,Peak Load / Staffing,NONE,1,0,Integrated Solution,https://www.legalist.com/,,
+228,FIRM0677,Litify,Legal Practice Management,USA,New York,2016,Corporate,Workflow & PM,Workflow & PM,Legal Ops,1,0,Integrated Solution,https://www.litify.com/product-overview/#product-matter,,
+229,FIRM0678,SeedLegals,Legal Practice Management,UK,London,2016,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://seedlegals.com/,,Provides end-to-end legal and technology solution to help entrepreneurs raise funds
+230,FIRM0679,Waymark Tech,Legal Compliance,UK,London,2013,Corporate,RegTech,Workflow & PM,NONE,1,1,Integrated Solution,http://waymark.tech/,,
+231,FIRM0680,Resis,Legal Practice Management,Poland,Krakow,2014,Corporate,Legal Ops,Workflow & PM,NONE,1,0,Integrated Solution,https://www.crunchbase.com/organization/resis,,
+232,FIRM0683,Atrium LTS,Legal Practice Management,USA,San Francisco,2017,Corporate,Workflow & PM,Contracts,NONE,1,0,Integrated Solution,https://www.atrium.co/,,
+233,FIRM0693,Railsbank,Legal Compliance,UK,London,2016,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,https://www.railsbank.com/,,RailsBank is a BaaS platform that connects finTech companies and banks together. Closer to a Fintech solution with a compliance element
+234,FIRM0694,VoxSmart,Legal Compliance,UK,London,2006,Corporate,RegTech,Workflow & PM,NONE,1,0,Point Solution,https://voxsmart.com/,,
+235,FIRM0695,RSRCHXchange,Legal Compliance,UK,London,2014,,NONE,NONE,NONE,0,0,,http://rsrchxchange.com/,,RSRCHXchange is a research aggregator and marketplace
+236,FIRM0696,TrueLayer,Legal Compliance,UK,London,2016,,NONE,NONE,NONE,0,0,,https://www.tessian.com/platform,,"TrueLayer provide APIs that allow companies to securely and efficiently access their customers’ bank accounts to share financial data, make payments and validate their identity"
+237,FIRM0697,Tessian (previously CheckRecipient),Legal Compliance,UK,London,2013,Corporate,Workflow & PM,NONE,NONE,1,1,Point Solution,https://www.tessian.com/platform,,
+238,FIRM0698,PassFort,Legal Compliance,UK,London,2015,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,https://www.passfort.com/features,,
+239,FIRM0699,OpenGamma,Legal Compliance,UK,London,2009,,NONE,NONE,NONE,0,0,,https://opengamma.com/,,"OpenGamma is an nalytics company dedicated to reducing the costs of trading derivatives, by providing actionable recommendations to front-office, risk and treasury"
+240,FIRM0700,Onfido,Legal Compliance,UK,London,2012,Corporate,Workflow & PM,NONE,NONE,1,1,Point Solution,https://onfido.com/,,Onfido validates a user’s identity document and compares it with their facial biometrics. 
+241,FIRM0701,Elliptic,Legal Compliance,UK,London,2013,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,https://www.elliptic.co/,,Elliptic is a forensic investigation company that specialise in detecting and investigating cryptocurrency-enabled crimes
+242,FIRM0702,ComplyAdvantage,Legal Compliance,USA,New York,2014,Corporate,RegTech,NONE,NONE,1,1,Point Solution,https://complyadvantage.com/,,
+243,FIRM0703,Regnosys,Legal Compliance,UK,London,2016,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,https://www.regnosys.com/,,
+244,FIRM0706,NorthRow (formerly Contego),Legal Compliance,UK,Oxford,2011,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,https://www.northrow.com/,,
+245,FIRM0707,Credit Benchmark,Legal Compliance,UK,London,2012,Corporate,NONE,NONE,NONE,0,0,,https://www.creditbenchmark.com/,,Credit Benchmark is a financial data analytics company
+246,FIRM0708,AlgoDynamix,Legal Compliance,UK,London,2014,Corporate,NONE,NONE,NONE,1,1,Integrated Solution,https://www.algodynamix.com/,,AlgoDynamix provides data risk analytics platform used by investment banks and asset managers
+247,FIRM0709,Erudine,Legal Compliance,UK,London,2012,Corporate,NONE,NONE,NONE,1,0,,https://www.linkedin.com/company/erudine/,,Erudine offers financial control systems to finance industries
+248,FIRM0710,Quantexa,Legal Compliance,UK,London,2016,Corporate,RegTech,NONE,NONE,1,1,Integrated Solution,http://www.quantexa.com/,,
+249,FIRM0711,Autologyx,Legal Compliance,USA,Hamsphire,2011,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,https://www.autologyx.com/,,Autologyx automates operational functions that include compliance
+250,FIRM0712,Coinfirm,Legal Compliance,UK,London,2016,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,http://www.coinfirm.io/,,
+251,FIRM0713,Privitar,Legal Compliance,UK,London,2014,Corporate,NONE,NONE,NONE,1,0,,https://www.privitar.com/,,"Privitar is a privacy engineering company that enables organisations to safely use, share, and derive insights from data"
+252,FIRM0716,Behavox,Legal Compliance,UK,London,2014,Corporate,RegTech,NONE,NONE,1,1,Integrated Solution,https://www.behavox.com/index,,
+253,FIRM0717,CoVi Analytics,Legal Compliance,UK,London,2015,Corporate,RegTech,NONE,NONE,1,1,Integrated Solution,http://www.covianalytics.com/,,CoVi Analytics simplifies compliance for Banks and Insurers based on an AI powered Saas suite.
+254,FIRM0718,VATBox,Legal Compliance,Israel,Tel Aviv,2012,Corporate,RegTech,NONE,NONE,1,1,Integrated Solution,https://vatbox.com/,,VATBox automates VAT recovery and enables global compliance and governance
+255,FIRM0719,Human,Legal Compliance,UK,London,2016,Corporate,NONE,NONE,NONE,1,1,,https://wearehuman.io/,,"Human provides technology to decipher subliminal facial expressions into emotion and characteristics traits, predicting human behaviour"
+256,FIRM0720,DueDil,Legal Compliance,UK,London,2011,Corporate,RegTech,DealTech,NONE,1,0,Point Solution,https://www.duedil.com/,,DueDil provides complete and connected company information to help businesses find opportunities and evaluate risks
+257,FIRM0721,Quantemplate,Legal Compliance,UK,,2013,Corporate,NONE,NONE,NONE,1,1,Integrated Solution,https://www.quantemplate.com/,,"Quantemplate uses machine learning to automate, integrate and analyse their data"
+258,FIRM0722,Encompass,Legal Compliance,UK,Glasgow City,2012,Corporate,RegTech,Legal Ops,NONE,1,0,Point Solution,http://www.encompasscorporation.com/,,Encompass is the creator of KYC automation for major financial and professional service firms globally
+259,FIRM0723,MIRACL,Legal Compliance,UK,London,2008,Corporate,NONE,NONE,NONE,0,0,,https://www.miracl.com/,,"MIRACL is an all-in-one authentication platform that secures the connections between the people, apps, and things that run any digital business"
+260,FIRM0724,CloudMargin,Legal Compliance,UK,London,2013,Corporate,NONE,NONE,NONE,1,0,Integrated Solution,https://cloudmargin.com/,,"CloudMargin centralise, automate, connect and optimise collateral management."
+261,FIRM0725,AQMETRICS,Legal Compliance,Ireland,Maynooth,2012,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,http://www.aqmetrics.com/,,
+262,FIRM0726,Corlytics,Legal Compliance,Ireland,Dublin,2013,Corporate,RegTech,NONE,NONE,1,0,Point Solution,http://corlytics.com/,,CORLYTICS analyse and quantify
+263,FIRM0727,Fenergo,Legal Compliance,Ireland,Dublin,2009,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,https://www.fenergo.com/,,"Fenergo client onboarding lifecycle management software for corporate, investment and private banks."
+264,FIRM0728,Gecko Governance,Legal Compliance,Ireland,Dublin,2015,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,http://www.geckogovernance.com/,,GECKO Governance is a RegTech solution to allow fund managers and banks to monitor and manage their regulation and compliance requirements.
+265,FIRM0732,Governance.io,Legal Compliance,Luxembourg,Luxembourg,2011,Corporate,RegTech,NONE,NONE,1,0,Point Solution,https://governance.com/,,
+266,FIRM0733,TheMarketsTrust,Legal Compliance,Luxembourg,Luxembourg,2013,Corporate,NONE,NONE,NONE,1,0,Integrated Solution,http://themarketstrust.com/,,TheMarketsTrust specialise in high-tech and sophisticated solutions on risk-analysis
+267,FIRM0734,Intix,Legal Compliance,Belgium,Antwerp,2011,Corporate,NONE,NONE,NONE,1,0,Integrated Solution,https://intix.eu/,,"INTIX monitors financial transactions such as customer payments across any number of source systems, data semantics, e-channels and messaging formats"
+268,FIRM0735,SeattleMint,Legal Compliance,Belgium,Vlaams-Brabant,2016,Corporate,NONE,NONE,NONE,1,0,Integrated Solution,https://settlemint.com/solutions/governmint,,Provides blockchain solutions to businesses
+269,FIRM0736,Limina,Legal Compliance,Sweden,Stockholm,2014,Corporate,RegTech,Workflow & PM,NONE,1,0,Integrated Solution,http://www.limina.com/,,
+270,FIRM0737,BehavioSec,Legal Compliance,Sweden,Stockholm,2007,Corporate,NONE,NONE,NONE,1,0,Point Solution,https://www.behaviosec.com/,,BehavioSec develops continuous authentication and verification technology that provides identity and access management solutions
+271,FIRM0738,NewBanking,Legal Compliance,Denmark,Copenhagen,2015,Corporate,NONE,NONE,NONE,1,0,,https://newbanking.com/,,NewBanking is an online platform for identity management.
+272,FIRM0739,Omada,Legal Compliance,Denmark,Copenhagen,1999,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,https://www.omada.net/,,
+273,FIRM0740,M-Files,Legal Practice Management,USA,Texas,2001,Corporate,Workflow & PM,NONE,NONE,0,0,Integrated Solution,https://www.m-files.com/en,,"M-Files provides the M-Files family of document management solutions that help businesses improve efficiency and productivity by improving the way they organize, manage and track documents and business processes"
+274,FIRM0741,Avedos,Legal Compliance,Austria,Vienna,2005,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,https://www.avedos.com/en/,,
+275,FIRM0742,Kompany,Legal Compliance,Austria,Vienna,2012,Corporate,RegTech,NONE,NONE,1,0,Point Solution,https://www.kompany.com/,,"Kompany provides real-time access to official and authoritative commercial register data, including company filings for KYC and AML."
+276,FIRM0743,Qumram,Legal Compliance,Switzerland,Zurich,2011,Corporate,RegTech,NONE,NONE,1,0,Point Solution,http://www.qumram.com/products,,Qumram was acquired by Dynatrace recently
+277,FIRM0744,Riskified,Legal Compliance,Israel,Tel Aviv,2012,Corporate,NONE,NONE,NONE,1,1,Integrated Solution,https://www.riskified.com/,,Riskified is an all-in-one eCommerce fraud prevention solution and chargeback protection service for high volume and enterprise merchants.
+278,FIRM0746,Squirro,Legal Compliance,Switzerland,Zurich,2012,Corporate,NONE,NONE,NONE,1,1,Integrated Solution,https://squirro.com/,,Squirro delivers real-time context intelligence by combining structured and unstructured data.
+279,FIRM0748,Alyne,Legal Compliance,Germany,Munich,2015,Corporate,RegTech,NONE,NONE,0,0,Point Solution,https://www.alyne.com/en/,,
+280,FIRM0749,Redwood,Legal Compliance,Netherlands,Houten,1993,Corporate,NONE,NONE,NONE,1,0,Point Solution,https://www.redwood.com/,,Redwod's Robotics solutions help businesses optimize processes for digital operations
+281,FIRM0750,TiS,Legal Compliance,Germany,Walldorf,2010,Corporate,NONE,NONE,NONE,1,0,Integrated Solution,https://www.tis.biz/,,TIS is a cloud platform for managing corporate payments and cash flows
+282,FIRM0752,KMStandards,Legal Document Automation,USA,Chicago,2005,Corporate,Contracts,NONE,NONE,1,1,Integrated Solution,http://kmstandards.com/index.html,,
+283,FIRM0753,Apttus,Legal Document Automation,USA,San Mateo,2006,Corporate,Workflow & PM,RegTech,NONE,1,0,Integrated Solution,https://apttus.com/,,"Apttus  not entirely LegalTech, Apttus’s contract lifecycle management solution is designed to overhaul how sales and legal interact"
+284,FIRM0756,Surukam,Legal Practice Management,India,Chennai,2014,Corporate,Workflow & PM,Contracts,NONE,1,1,Integrated Solution,http://www.surukam.com/,,
+285,FIRM0757,BrightFlag,Legal Practice Management,Ireland,Dublin,2014,Corporate,Legal Ops,NONE,NONE,1,1,Integrated Solution,https://www.brightflag.com/,,AI-powered eBilling and spend management software for legal departments.
+286,FIRM0762,Gavelytics,Legal Analytics,USA,Santa Monica,2016,Corporate,Legal Research,LitTech ,NONE,1,1,Integrated Solution,https://www.gavelytics.com/,,Gavelytics is a judicial analytics tool that gives litigators actionable knowledge to help win more cases and more business
+287,FIRM0765,Skopos Labs,Legal Research,USA,New York,2016,Corporate,Legal Research,RegTech,NONE,1,1,Point Solution,https://www.skoposlabs.com/about,,Skopos Labs has developed patent-pending machine learning technology that automatically processes and analyzes massive amounts of data to calculate the likelihood and impacts of law and policy changes
+288,FIRM0767,Advanced Discovery,E-Discovery,USA,Kansas,2005,Corporate,eDiscovery,RegTech,NONE,1,0,Integrated Solution,https://www.advanceddiscovery.com/,,"Advanced Discovery was acquired by private equity firm, GI Partners which also merged it with with Consilio (another GI Partner investment)"
+289,FIRM0768,NexLP,E-Discovery,USA,Chicago,2014,Corporate,eDiscovery,LitTech ,NONE,1,0,Integrated Solution,https://www.nexlp.com/,,"NexLP, LLC provides a predictive intelligence software solution that turns electronic data into patterns and stories"
+290,FIRM0769,OpenText,E-Discovery,Canada,Waterloo,1991,Corporate,eDiscovery,RegTech,NONE,1,1,Integrated Solution,https://www.opentext.com/,,OpenText's software solutions help large enterprises manage and secure their unstructured digital data
+291,FIRM0770,Text IQ,Legal Compliance,USA,New York,2014,Corporate,RegTech,LitTech ,eDiscovery,1,1,Integrated Solution,http://www.textiq.com/,,Text IQ uses AI technology to prevent high-stakes legal and compliance disasters
+292,FIRM0771,Veritone,E-Discovery,USA,California,2014,Corporate,eDiscovery,RegTech,NONE,1,1,Integrated Solution,https://www.veritone.com/,,Veritone applies AI technology for eDiscovery and compliance
+293,FIRM0772,Attorney IO,Legal Research,USA,California,2017,Corporate,Legal Research,LitTech ,NONE,1,1,Point Solution,https://www.attorneyio.com/,,Attorney IO uses AI technology to legal research
+294,FIRM0778,Eigen Technologies,Legal Analytics,UK,London,2014,Corporate,Legal Research,NONE,NONE,1,1,Point Solution,http://www.eigentech.com/,,Eigen automates the extraction and classification of information from documents.
+295,FIRM0779,LinkSquares,Legal Document Automation,USA,Massachusetts,2015,Corporate,Contracts,RegTech,NONE,1,1,Integrated Solution,https://www.linksquares.com/,,LinkSquares is a technology company that specializes in automating the search and reporting process around company contracts.
+296,FIRM0781,ThoughtRiver,Legal Analytics,UK,London,2015,Corporate,Contracts,Legal Research,NONE,1,1,Point Solution,https://thoughtriver.com/,,"ThoughtRiver  automates the human triaging process, interpreting key risk issues and dynamically applying corporate policies in order to generate an overall risk score for the contract"
+297,FIRM0782,AUTTO,Legal Practice Management,UK,London,2016,Corporate,Workflow & PM,NONE,NONE,1,0,Integrated Solution,https://www.autto.io/,,Autto is a workflow automation company
+298,FIRM0786,SpringCM,Legal Document Automation,USA,Chicago,2005,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.springcm.com/,,"SpringCM generates, automates, manages, and stores documents and contracts."
+299,FIRM0787,Icertis,Legal Document Automation,USA,Washington,2009,Corporate,Contracts,RegTech,KM,1,1,Integrated Solution,https://www.icertis.com/,,Icertis provides contract life-cycle management
+300,FIRM0788,ForensicLogic,Legal Research,USA,California,2003,Corporate,Legal Research,NONE,NONE,1,0,Point Solution,https://forensiclogic.com/,,"Forensic Logic's search engine has been developed in partnership between the technology community and law enforcement to share, search and analyze information across agencies, geographies and IT systems."
+301,FIRM0789,Heretik,E-Discovery,USA,Chicago,2017,Corporate,eDiscovery,RegTech,Workflow & PM,1,1,Integrated Solution,https://www.heretik.com/,,"Heretik is a machine learning solution that removes risks, meets obligations, and realizes opportunities within contracts"
+302,FIRM0791,iamIP,Legal Research,Sweden,Stockholm,2013,Corporate,Legal Research,Workflow & PM,NONE,1,0,Integrated Solution,https://www.iamip.com/features,,"IamIP’s Intellectual Property platform provides a secure, web-based portal for centrally managing all published patents worldwide – from the published individual patents to setting up search alerts, sharing, commenting, monitoring and collaborating."
+303,FIRM0792,Muso,E-Discovery,UK,London,2009,Corporate,eDiscovery,RegTech,NONE,1,0,Integrated Solution,https://www.muso.com/,,"MUSO has the world’s largest dataset on visits and activity around piracy sites, and provides tools for rights holders to protect their content, better understand demand for their content, and create opportunities from piracy audiences"
+304,FIRM0793,HelloSign,Legal Document Automation,USA,San Francisco,2011,Corporate,Contracts,Workflow & PM,NONE,1,0,Integrated Solution,https://www.hellosign.com/,,"HelloSign offers fast, secure, and legally binding eSignatures for businesses"
+305,FIRM0794,Timeular,Legal Practice Management,Austria,Graz,2016,Corporate,Legal Ops,Other Practice Tech,NONE,1,0,Point Solution,https://timeular.com/#timeular-features,,Timeular tracks time and automates timehseet filings
+306,FIRM0795,Vector Legal Method,Legal Practice Management,USA,Kansas,2016,Corporate,LitTech ,Workflow & PM,Contracts,1,0,Integrated Solution,https://www.vectorlegalmethod.com/,,Vector Legal Method is a litigation managemetn platform
+307,FIRM0796,LegalRaasta,Legal Document Automation,India,New Delhi,2015,Corporate,Contracts,RegTech,NONE,0,0,Point Solution,https://www.legalraasta.com/,,LegalRaasta.com is a technology platform that helps businesses and entrepreneurs with legal dcouments
+308,FIRM0797,CloudLex,Legal Practice Management,USA,New York,2015,Corporate,Other Practice Tech,Workflow & PM,NONE,0,0,Integrated Solution,https://www.cloudlex.com/,,cloud-based legal platform designed exclusively for plaintiff personal injury law firms
+309,FIRM0798,PracticePanther,Legal Practice Management,USA,MIami,2012,Corporate,Other Practice Tech,Workflow & PM,Legal Ops,1,0,Integrated Solution,https://www.practicepanther.com/,,
+310,FIRM0802,Determine,Legal Document Automation,USA,Indiana,1996,Corporate,Contracts,RegTech,Workflow & PM,1,0,Integrated Solution,https://www.determine.com/,,Contract management software
+311,FIRM0805,Mitratech,Legal Document Automation,USA,Texas,1987,Corporate,Contracts,RegTech,Workflow & PM,1,0,Integrated Solution,http://www.mitratech.com/,,Mitratech offers enterprise legal and risk management solutions
+312,FIRM0807,Exterro,E-Discovery,USA,Portland,2004,Corporate,eDiscovery,Workflow & PM,NONE,1,0,Integrated Solution,https://www.exterro.com/,,Exterro’s software platform enables companies to manage and optimize all e-discovery activities.
+313,FIRM0811,WebTMS,Legal Practice Management,UK,Reading,1998,Corporate,Other Practice Tech,Workflow & PM,NONE,1,0,Integrated Solution,http://www.webtms.com/,,WebTMS is a comprehensive trademark management suite that builds on record keeping and docketing to support efficient trademark management with modules for every type of IP
+314,FIRM0815,Evernote,Legal Analytics,USA,California,2000,,NONE,NONE,NONE,0,0,,,,
+315,FIRM0824,NotaryCam,Legal Marketplace,USA,Washington,2012,Consumer,Contracts,Peak Load / Staffing,NONE,0,0,Point Solution,https://www.notarycam.com/,,eNotary service
+316,FIRM0826,Bloomsbury AI,Legal Analytics,UK,London,2015,Corporate,KM,NONE,NONE,1,1,Point Solution,http://bloomsbury.ai/,,Bloomsbury AI was acquired by Facebook
+317,FIRM0828,RenewData,E-Discovery,USA,Austin,2001,Corporate,eDiscovery,NONE,NONE,1,0,Point Solution,https://www.kldiscovery.com/,,RenewData was acquired by KLDsicovery
+318,FIRM0830,QDiscovery,E-Discovery,USA,Connecticut,2011,Corporate,eDiscovery,NONE,NONE,1,0,Point Solution,https://qdiscovery.com/,,
+319,FIRM0221,eDepoze,E-Discovery,USA,Kansas,2012,Corporate,eDiscovery,NONE,NONE,1,0,Point Solution,https://edepoze.com/,,
+320,FIRM0831,AccessData,E-Discovery,USA,Utah,1987,Corporate,eDiscovery,RegTech,NONE,1,0,Point Solution,http://www.accessdata.com/,,
+321,FIRM0832,Page Vault,Legal Practice Management,USA,Chicago,2013,Corporate,Other Practice Tech,NONE,NONE,1,0,Point Solution,https://www.page-vault.com/,,It is a cloud-based Software-as-a-Service subscription solution that provides a trusted third party chain of custody for captures with the simplicity of a screenshot
+322,FIRM0833,Peppermint Technology,Legal Practice Management,UK,Nottingham,2010,Corporate,Workflow & PM,KM,Legal Ops,1,0,Integrated Solution,https://www.pepperminttechnology.co.uk/,,"The Platform brings together, in one system, all the applications and data a legal provider requires to operate their business and uniquely places the client record at the centre"
+323,FIRM0834,LawCanvas,Legal Document Automation,Singapore,Singapore,2013,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://app.lawcanvas.com/,,Automated contracts
+324,FIRM0835,Notarize,Legal Marketplace,USA,Boston,2015,Consumer,Contracts,Peak Load / Staffing,NONE,0,0,Point Solution,https://www.notarize.com/,,eNotary service
+325,FIRM0837,Legistify,Legal Marketplace,India,Noida,2014,Consumer,Peak Load / Staffing,Contracts,NONE,0,0,Integrated Solution,https://www.legistify.com/,,
+326,FIRM0838,vakilsearch,Legal Document Automation,India,Chennai,2010,Corporate,Contracts,NONE,NONE,0,0,Point Solution,https://vakilsearch.com/,,Online legal document
+327,FIRM0839,LegalVision,Legal Document Automation,Australia,Sydney,2012,Corporate,Contracts,Peak Load / Staffing,NONE,0,0,Integrated Solution,https://legalvision.com.au/,,Provide online legal document and also fixed fee legal service
+328,FIRM0840,Avtal24,Legal Document Automation,Sweden,Stockholm,2004,Consumer,Contracts,NONE,NONE,0,0,Point Solution,https://avtal24.se/,,Online legal document
+329,FIRM0841,Visabot,Legal Document Automation,USA,San Francisco,2016,Consumer,Contracts,Peak Load / Staffing,NONE,1,1,Integrated Solution,https://visabot.co/,,Immigration robot powered by artificial intelligence
+330,FIRM0842,Book-It Legal,Legal Marketplace,USA,Alabama,2016,Corporate,Peak Load / Staffing,NONE,NONE,0,0,Point Solution,https://www.bookitlegal.com/,,Book-it Legal is a marketplace startup that facilitates short-term clerkships
+331,FIRM0843,Lawyaw,Legal Document Automation,USA,San Francisco,2016,Corporate,Contracts,KM,Workflow & PM,1,0,Integrated Solution,https://www.lawyaw.com/video/,,Legal document automation combine with matter management
+332,FIRM0844,Social Evidence,E-Discovery,USA,Florida,2015,Corporate,eDiscovery,LitTech ,NONE,1,0,Integrated Solution,https://www.linkedin.com/company/social-evidence/,,"Designed to collect, organize, and analyze information from specific social media sites for named accounts and provide the results to courts in a repeatable, legally defensible format. "
+333,FIRM0845,Callisto,Legal Document Automation,USA,San Francisco,2015,Consumer,Contracts,Peak Load / Staffing,NONE,0,0,Integrated Solution,http://www.projectcallisto.org/,,Callisto is a non-profit organization that develops technology to combat sexual assault and harassment.
+334,FIRM0846,Cognition IP,Legal Document Automation,USA,Palo Alto,2018,Corporate,Contracts,Other Practice Tech,NONE,0,0,,https://www.cognitionip.com/,,Cognition IP is a new-style law firm that helps clients more efficiently create and file patents and deal with other kinds of patent law
+335,FIRM0847,Legatics,Legal Practice Management,UK,London,2015,Corporate,LitTech ,Workflow & PM,NONE,0,0,Integrated Solution,https://www.legatics.com/,,Legatics is an end-to-end deal platform designed to cut out deal administration and with an immediate focus on automating the conditions precedent process
+336,FIRM0848,Opus 2,Legal Practice Management,UK,London,2008,Corporate,LitTech ,Workflow & PM,NONE,1,0,Integrated Solution,https://www.opus2.com/software.html,,Litigation support software
+337,FIRM0849,Vable,Legal Research,UK,London,2004,Corporate,KM,NONE,NONE,1,0,Point Solution,https://www.vable.com/,,"Automate the monitoring, gathering, indexing and sharing of information from public and subscription news sources"
+338,FIRM0853,FileFacets,Legal Compliance,USA,New York,2015,Corporate,RegTech,NONE,NONE,1,0,Integrated Solution,http://www.filefacets.com/,,FileFacets' cloud data analytics and content migration platform help companies comply with GDPR

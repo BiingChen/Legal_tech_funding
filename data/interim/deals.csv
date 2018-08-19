@@ -1,0 +1,420 @@
+,deal_ id,deal_date,deal_year,firm_name,firm_id,round_total,deal_type,country,city,year_founded,codex_category,firm_age
+0,DEAL0001,2000-03-22,2000,LexisNexis,FIRM0002,30000000.0,Venture Capital,USA,New York,1973,Legal Research,27
+1,DEAL0002,2002-10-03,2002,Workshare,FIRM0027,4500000.0,Series A,UK,London,1999,Legal Analytics,3
+3,DEAL0004,2003-10-01,2003,XMLAW,FIRM0051,150000.0,Seed Fund,USA,Boston,2003,Legal Practice Management,0
+5,DEAL0006,2004-06-14,2004,DocuSign,FIRM0045,4600000.0,Series A,USA,San Francisco,2003,Legal Practice Management,1
+6,DEAL0007,2004-12-27,2004,Brainspace,FIRM0059,1000000.0,Venture Capital,USA,Texas,2005,Legal Document Automation,0
+7,DEAL0008,2005-06-30,2005,DocuSign,FIRM0045,1500000.0,Venture Capital,USA,San Francisco,2003,Legal Practice Management,2
+8,DEAL0009,2005-10-01,2005,EchoSign (now Adobe eSign),FIRM0060,2500000.0,Series A,USA,Palo Alto,2005,Legal Document Automation,0
+9,DEAL0010,2006-01-01,2006,Avvo,FIRM0066,3000000.0,Series A,USA,Seattle,2006,Legal Marketplace,0
+10,DEAL0011,2006-01-23,2006,RiverGlass,FIRM0050,150000.0,Grant,USA,Illinois,2003,Legal Analytics,3
+11,DEAL0012,2006-04-01,2006,DocuSign,FIRM0045,10000000.0,Series B,USA,San Francisco,2003,Legal Practice Management,3
+12,DEAL0013,2006-09-11,2006,Pbworks,FIRM0063,350000.0,Angel,USA,California,2005,Legal Document Automation,1
+13,DEAL0014,2006-10-25,2006,IntellinX,FIRM0061,4000000.0,Series A,Israel,Tel Aviv,2005,Legal Practice Management,1
+14,DEAL0015,2007-01-01,2007,TeamPatent,FIRM0073,100000.0,Grant,USA,California,2006,Legal Practice Management,1
+15,DEAL0016,2007-01-18,2007,Workshare,FIRM0027,23000000.0,Series B,UK,London,1999,Legal Analytics,8
+16,DEAL0017,2007-02-01,2007,Pbworks,FIRM0063,2100000.0,Venture Capital,USA,California,2005,Legal Document Automation,2
+17,DEAL0018,2007-02-05,2007,RiverGlass,FIRM0050,4000000.0,Series A,USA,Illinois,2003,Legal Analytics,4
+18,DEAL0019,2007-03-01,2007,PSS Systems,FIRM0055,5000000.0,Debt Financing,USA,California,2004,E-Discovery,3
+19,DEAL0020,2007-03-06,2007,LegalZoom,FIRM0025,45000000.0,Series A,USA,California,1999,Legal Document Automation,8
+20,DEAL0021,2007-04-01,2007,Avvo,FIRM0066,10000000.0,Series B,USA,Seattle,2007,Legal Marketplace,0
+21,DEAL0022,2007-04-15,2007,Firmex,FIRM0071,950000.0,Seed Fund,Canada,Toronto,2006,Legal Practice Management,1
+23,DEAL0024,2007-09-01,2007,DocuSign,FIRM0045,12400000.0,Series B,USA,San Francisco,2003,Legal Practice Management,4
+24,DEAL0025,2007-10-01,2007,AudioCaseFiles,FIRM0065,250000.0,Seed Fund,USA,Boston,2006,E-Discovery,1
+25,DEAL0025,2007-10-01,2007,EchoSign (now Adobe eSign),FIRM0060,6000000.0,Series B,USA,Palo Alto,2005,Legal Document Automation,2
+26,DEAL0026,2008-04-01,2008,TeamPatent,FIRM0073,500000.0,Grant,USA,California,2006,Legal Practice Management,2
+27,DEAL0027,2008-04-22,2008,Exari Systems,FIRM0028,10000000.0,Venture Capital,Australia,Melbourne,1999,Legal Document Automation,9
+28,DEAL0028,2008-05-15,2008,Firmex,FIRM0071,3500000.0,Angel,Canada,Toronto,2006,Legal Practice Management,2
+29,DEAL0029,2008-06-01,2008,Pbworks,FIRM0063,3500000.0,Series A,USA,California,2005,Legal Document Automation,3
+30,DEAL0030,2008-06-15,2008,PSS Systems,FIRM0055,18000000.0,Series D,USA,California,2004,E-Discovery,4
+31,DEAL0031,2008-06-26,2008,WorkProducts,FIRM0015,100000.0,Venture Capital,USA,Virginia,1995,Legal Practice Management,13
+32,DEAL0032,2008-08-01,2008,Innography,FIRM0072,6500000.0,Series A,USA,Texas,2006,Legal Practice Management,2
+33,DEAL0033,2008-08-08,2008,Mimecast,FIRM0178,2800000.0,Seed Fund,UK,London,2003,E-Discovery,5
+34,DEAL0034,2008-09-03,2008,Mimecast,FIRM0178,3000000.0,Series A,UK,London,2003,E-Discovery,5
+38,DEAL0037,2009-01-08,2009,Rocket Lawyer,FIRM0091,2100000.0,Venture Capital,USA,San Francisco,2008,Legal Document Automation,1
+39,DEAL0038,2009-03-03,2009,Zapproved,FIRM0099,100000.0,Debt Financing,USA,Portland,2008,Legal Practice Management,1
+40,DEAL0039,2009-05-08,2009,DocuSign,FIRM0045,5000000.0,Series B,USA,San Francisco,2003,Legal Practice Management,6
+41,DEAL0040,2009-06-01,2009,Contractually,FIRM0119,40500.0,Seed Fund,Canada,Vancouver,2010,Legal Document Automation,0
+45,DEAL0042,2009-08-26,2009,RightsFlow,FIRM0079,1500000.0,Series A,USA,New York,2007,Legal Document Automation,2
+47,DEAL0044,2009-11-18,2009,DocuSign,FIRM0045,3000000.0,Series B,USA,San Francisco,2003,Legal Practice Management,6
+48,DEAL0045,2009-11-20,2009,Pbworks,FIRM0063,650000.0,Venture Capital,USA,California,2005,Legal Document Automation,4
+50,DEAL0047,2010-01-01,2010,ExpertBids.com,FIRM0126,20000.0,Seed Fund,USA,Chicago,2010,Legal Marketplace,0
+51,DEAL0048,2010-01-01,2010,TeamPatent,FIRM0073,150000.0,Grant,USA,California,2006,Legal Practice Management,4
+52,DEAL0049,2010-01-25,2010,Mimecast,FIRM0178,21000000.0,Series B,UK,London,2003,E-Discovery,7
+53,DEAL0050,2010-02-08,2010,IP Street,FIRM0131,1500000.0,Venture Capital,USA,Washington,2010,Legal Analytics,0
+54,DEAL0051,2010-02-22,2010,Innography,FIRM0072,3000000.0,Series B,USA,Texas,2006,Legal Practice Management,4
+55,DEAL0052,2010-03-17,2010,Avvo,FIRM0066,10000000.0,Series C,USA,San Francisco,2008,Legal Marketplace,2
+56,DEAL0053,2010-04-01,2010,Brightleaf,FIRM0069,3000000.0,Venture Capital,USA,Massachusetts,2006,Legal Analytics,4
+57,DEAL0054,2010-05-03,2010,Rocket Lawyer,FIRM0091,6600000.0,Series A,USA,San Francisco,2008,Legal Document Automation,2
+58,DEAL0055,2010-07-08,2010,DocuSign,FIRM0045,2000000.0,Debt Financing,USA,San Francisco,2003,Legal Practice Management,7
+59,DEAL0056,2010-08-31,2010,Intelligize,FIRM0076,2100000.0,Venture Capital,USA,New York,2007,Legal Research,3
+60,DEAL0057,2010-10-01,2010,Manzama,FIRM0135,200000.0,Angel,USA,Oregon,2010,E-Discovery,0
+61,DEAL0058,2010-11-29,2010,Manzama,FIRM0135,847000.0,Seed Fund,USA,Oregon,2010,E-Discovery,0
+63,DEAL0060,2010-12-08,2010,DocuSign,FIRM0045,27000000.0,Series C,USA,San Francisco,2003,Legal Practice Management,7
+64,DEAL0061,2011-01-14,2011,Clearpath Immigration,FIRM0084,1100000.0,Series B,USA,Miami,2008,Legal Document Automation,3
+65,DEAL0062,2011-02-02,2011,Lex Machina,FIRM0107,811100.0,Seed Fund,USA,Menlo Park,2009,Legal Analytics,2
+66,DEAL0063,2011-02-17,2011,Everlaw,FIRM0125,655000.0,Seed Fund,USA,California,2010,Legal Practice Management,1
+67,DEAL0064,2011-04-01,2011,DocuSign,FIRM0045,1100000.0,Venture Capital,USA,San Francisco,2003,Legal Practice Management,8
+68,DEAL0065,2011-04-04,2011,Zapproved,FIRM0099,1500000.0,Series B,USA,Portland,2008,Legal Practice Management,3
+69,DEAL0065,2011-04-04,2011,Zapproved,FIRM0099,1000000.0,Series A,USA,Portland,2008,Legal Practice Management,3
+70,DEAL0066,2011-04-05,2011,WordRake,FIRM0283,1900000.0,Venture Capital,USA,Washington,2012,Legal Practice Management,0
+71,DEAL0067,2011-05-20,2011,Intelligize,FIRM0076,1500000.0,Series A,USA,New York,2007,Legal Research,4
+72,DEAL0068,2011-05-28,2011,JusticeBox,FIRM0174,150000.0,Seed Fund,USA,New York,2011,Online Dispute Resolution,0
+73,DEAL0069,2011-05-30,2011,Intake 123,FIRM0106,100000.0,Seed Fund,USA,Colorado,2009,Legal Practice Management,2
+75,DEAL0071,2011-06-13,2011,iubenda,FIRM0172,100000.0,Seed Fund,Italy,Milano,2011,Legal Document Automation,0
+76,DEAL0072,2011-07-06,2011,Manzama,FIRM0135,950000.0,Venture Capital,USA,Oregon,2010,E-Discovery,1
+77,DEAL0073,2011-07-07,2011,AttorneyFee,FIRM0159,250000.0,Seed Fund,USA,California,2011,Legal Marketplace,0
+78,DEAL0074,2011-07-24,2011,LegalZoom,FIRM0025,66000000.0,Series B,USA,California,1999,Legal Document Automation,12
+81,DEAL0077,2011-08-11,2011,Rocket Lawyer,FIRM0091,18500000.0,Series B,USA,San Francisco,2008,Legal Document Automation,3
+82,DEAL0078,2011-08-29,2011,TitanFile,FIRM0192,300000.0,Seed Fund,Canada,Ontario,2011,Legal Practice Management,0
+83,DEAL0079,2011-10-03,2011,BigTime Software,FIRM0042,2700000.0,Series A,USA,Chicago,2002,Legal Practice Management,9
+84,DEAL0080,2011-11-03,2011,Docracy,FIRM0165,650000.0,Seed Fund,USA,New York,2011,Legal Document Automation,0
+86,DEAL0082,2011-12-15,2011,PacerPro,FIRM0181,620000.0,Seed Fund,USA,San Francisco,2011,Legal Research,0
+88,DEAL0084,2011-12-24,2011,JusticeBox,FIRM0174,100000.0,Seed Fund,USA,New York,2011,Online Dispute Resolution,0
+91,DEAL0087,2012-01-01,2012,Quolaw,FIRM0186,10929.3,Seed Fund,Spain,Barcelona,2011,Legal Practice Management,1
+92,DEAL0088,2012-01-10,2012,Hire An Esquire,FIRM0169,25000.0,Seed Fund,USA,New York,2011,Legal Marketplace,1
+93,DEAL0089,2012-01-10,2012,IP Street,FIRM0131,2200000.0,Venture Capital,USA,Washington,2010,Legal Analytics,2
+94,DEAL0090,2012-01-20,2012,Clio,FIRM0085,6000000.0,Series B,Canada,Burnaby,2008,Legal Practice Management,4
+95,DEAL0091,2012-01-21,2012,vLex,FIRM0022,5000000.0,Venture Capital,Spain,Barcelona,1998,Legal Research,14
+96,DEAL0092,2012-03-02,2012,eBrevia,FIRM0220,25000.0,Convertible Note,USA,Stamford,2012,Legal Analytics,0
+97,DEAL0093,2012-03-19,2012,RPost,FIRM0037,2700000.0,Venture Capital,USA,Los Angeles,2000,Legal Practice Management,12
+98,DEAL0094,2012-04-10,2012,Catalyst Repository Systems,FIRM0031,32000000.0,Private Equity,USA,Denvar,2000,E-Discovery,12
+99,DEAL0095,2012-04-19,2012,Peppercorn,FIRM0260,31250.0,Seed Fund,Italy,Milano,2012,Legal Document Automation,0
+100,DEAL0096,2012-06-01,2012,cicayda,FIRM0208,1000000.0,Seed Fund,USA,Nashville,2012,Legal Practice Management,0
+101,DEAL0097,2012-07-01,2012,Ravel Law,FIRM0263,1100000.0,Seed Fund,USA,San Francisco,2012,Legal Research,0
+102,DEAL0098,2012-07-10,2012,LegalCrunch,FIRM0351,20000.0,Angel,USA,New York,2012,Legal Document Automation,0
+103,DEAL0099,2012-07-26,2012,Lex Machina,FIRM0107,2000000.0,Seed fund,USA,Menlo Park,2009,Legal Analytics,3
+104,DEAL0100,2012-08-07,2012,DocuSign,FIRM0045,55700000.0,Series D,USA,San Francisco,2003,Legal Practice Management,9
+105,DEAL0101,2012-08-24,2012,Clearpath Immigration,FIRM0084,200000.0,Series B,USA,Miami,2008,Legal Document Automation,4
+107,DEAL0103,2012-09-12,2012,Workshare,FIRM0027,28000000.0,Debt Financing,UK,London,1999,Legal Analytics,13
+108,DEAL0104,2012-09-20,2012,experdocs (Archevos Corporation),FIRM0100,10000.0,Debt Financing,USA,Las Vegas,2009,Legal Practice Management,3
+110,DEAL0106,2012-09-26,2012,Mimecast,FIRM0178,62000000.0,Series B,UK,London,2003,E-Discovery,9
+111,DEAL0107,2012-09-30,2012,Shake,FIRM0271,1000000.0,Seed Fund,USA,New York,2012,Legal Document Automation,0
+112,DEAL0108,2012-10-01,2012,LawKick,FIRM0241,30000.0,Seed Fund,USA,Santa Monica,2012,Legal Marketplace,0
+115,DEAL0111,2012-10-11,2012,TitanFile,FIRM0192,1100000.0,Seed Fund,Canada,Ontario,2011,Legal Practice Management,1
+116,DEAL0112,2012-10-20,2012,Startup Quest,FIRM0273,100000.0,Seed Fund,USA,Colorado,2012,Legal Education,0
+117,DEAL0113,2012-10-26,2012,LegalFácil,FIRM0177,40000.0,Seed Fund,Argentina,Buenos Aires,2011,Legal Document Automation,1
+119,DEAL0114,2012-11-03,2012,Lawdingo,FIRM0239,100000.0,Seed Fund,USA,New York,2012,Legal Marketplace,0
+120,DEAL0115,2012-11-15,2012,Modria,FIRM0179,1300000.0,Angel,USA,California,2011,Online Dispute Resolution,1
+123,DEAL0117,2012-12-11,2012,Judicata,FIRM0233,2000000.0,Venture Capital,USA,San Francisco,2012,Legal Research,0
+124,DEAL0118,2013-01-01,2013,cicayda,FIRM0208,2000000.0,Series A,USA,Nashville,2012,Legal Practice Management,1
+127,DEAL0120,2013-01-03,2013,Docracy,FIRM0165,200000.0,Venture Capital,USA,New York,2011,Legal Document Automation,2
+128,DEAL0121,2013-01-09,2013,Everlaw,FIRM0125,850000.0,Venture Capital,USA,California,2010,Legal Practice Management,3
+129,DEAL0122,2013-01-13,2013,FindMySong,FIRM0167,125000.0,Seed Fund,USA,Los Angeles,2011,Legal Document Automation,2
+130,DEAL0123,2013-01-24,2013,RETiDoc,FIRM0267,37500.0,Seed Fund,Bulgaria,Sofia,2012,Legal Document Automation,1
+132,DEAL0125,2013-02-01,2013,Quolaw,FIRM0186,25214.399999999998,Convertible Note,Spain,Barcelona,2011,Legal Practice Management,2
+133,DEAL0126,2013-02-06,2013,Axiom,FIRM0030,28000000.0,Venture Capital,USA,New York,2000,Legal Marketplace,13
+135,DEAL0128,2013-02-13,2013,Lex Machina,FIRM0107,2400000.0,Venture Capital,USA,Menlo Park,2009,Legal Analytics,4
+136,DEAL0129,2013-02-28,2013,eBrevia,FIRM0220,425000.0,Seed Fund,USA,Stamford,2012,Legal Analytics,1
+143,DEAL0131,2013-03-25,2013,eBrevia,FIRM0220,10000.0,Grant,USA,Stamford,2012,Legal Analytics,1
+144,DEAL0132,2013-03-27,2013,Allegory Law,FIRM0513,550000.0,Seed Fund,USA,New York,2011,Legal Analytics,2
+145,DEAL0133,2013-04-01,2013,LegalTrek,FIRM0356,31250.0,Seed Fund,Germany,Berlin,2013,Legal Practice Management,0
+146,DEAL0134,2013-04-01,2013,Pbworks,FIRM0063,3900000.0,Venture Capital,USA,California,2005,Legal Document Automation,8
+147,DEAL0135,2013-04-01,2013,SupportPay,FIRM0191,100000.0,Seed Fund,USA,California,2011,Legal Document Automation,2
+148,DEAL0136,2013-04-01,2013,UpCounsel,FIRM0276,100000.0,Seed Fund,USA,San Francisco,2012,Legal Marketplace,1
+149,DEAL0137,2013-04-14,2013,elAbogado,FIRM0124,500000.0,Seed Fund,Spain,Barcelona,2010,Legal Marketplace,3
+150,DEAL0138,2013-04-29,2013,CaseFlex,FIRM0206,250000.0,Seed Fund,USA,New York,2012,Legal Research,1
+152,DEAL0140,2013-05-01,2013,eBrevia,FIRM0220,25000.0,Seed Fund,USA,Stamford,2012,Legal Analytics,1
+153,DEAL0141,2013-05-01,2013,Lex Machina,FIRM0107,4800000.0,Series A,USA,Menlo Park,2009,Legal Analytics,4
+154,DEAL0142,2013-05-01,2013,Mark43,FIRM0253,75000.0,Grant,USA,New York,2012,E-Discovery,1
+155,DEAL0143,2013-05-09,2013,Clearpath Immigration,FIRM0084,1100000.0,Convertible Note,USA,Miami,2008,Legal Document Automation,5
+157,DEAL0145,2013-05-13,2013,Rocket Lawyer,FIRM0091,19000000.0,Series C,USA,San Francisco,2008,Legal Document Automation,5
+158,DEAL0146,2013-05-28,2013,Judicata,FIRM0233,5800000.0,Series A,USA,San Francisco,2012,Legal Research,1
+159,DEAL0147,2013-05-28,2013,LawKick,FIRM0241,20000.0,Seed Fund,USA,Santa Monica,2012,Legal Marketplace,1
+160,DEAL0148,2013-06-01,2013,everplans,FIRM0225,1400000.0,Seed Fund,USA,New York,2012,Legal Document Automation,1
+161,DEAL0149,2013-06-01,2013,FiscalNote,FIRM0326,25000.0,Convertible Note,USA,Washington,2013,Legal Analytics,0
+162,DEAL0150,2013-06-03,2013,NetLex,FIRM0369,37500.0,Seed Fund,Italy,Rome,2013,Legal Practice Management,0
+163,DEAL0151,2013-06-12,2013,FindMySong,FIRM0167,125000.0,Seed Fund,USA,Los Angeles,2011,Legal Document Automation,2
+164,DEAL0152,2013-06-28,2013,Juristat,FIRM0235,160000.0,Seed Fund,USA,St Louis,2012,Legal Analytics,1
+165,DEAL0153,2013-07-01,2013,FiscalNote,FIRM0326,6500.0,Grant,USA,Washington,2013,Legal Analytics,0
+166,DEAL0154,2013-07-01,2013,Infinote,FIRM0170,1500000.0,Seed Fund,USA,California,2011,Legal Document Automation,2
+167,DEAL0155,2013-07-01,2013,Juristat,FIRM0235,50000.0,Grant,USA,St Louis,2012,Legal Analytics,1
+168,DEAL0156,2013-07-01,2013,Modria,FIRM0179,5000000.0,Series A,USA,California,2011,Online Dispute Resolution,2
+169,DEAL0157,2013-07-15,2013,cicayda,FIRM0208,1000000.0,Venture Capital,USA,Nashville,2012,Legal Practice Management,1
+170,DEAL0158,2013-07-15,2013,Loudr,FIRM0365,200000.0,Convertible Note,USA,San Francisco,2013,Legal Document Automation,0
+171,DEAL0159,2013-07-15,2013,Mark43,FIRM0253,2000000.0,Seed fund,USA,New York,2012,E-Discovery,1
+172,DEAL0160,2013-07-17,2013,Anaqua,FIRM0058,100000000.0,Private Equity,USA,Boston,2004,Legal Practice Management,9
+173,DEAL0161,2013-07-31,2013,ContractRoom,FIRM0213,850000.0,Angel,USA,California,2012,Legal Document Automation,1
+174,DEAL0162,2013-08-05,2013,LegalReach,FIRM0246,900000.0,Seed Fund,USA,San Francisco,2012,Legal Marketplace,1
+175,DEAL0163,2013-08-13,2013,Carta (previously eShares),FIRM0223,1800000.0,Seed Fund,USA,Palo Alto,2012,Legal Document Automation,1
+176,DEAL0164,2013-08-21,2013,Allegory Law,FIRM0513,240000.0,Convertible Note,USA,New York,2011,Legal Analytics,2
+180,DEAL0166,2013-09-01,2013,CaseRails,FIRM0302,550000.0,Convertible Note,USA,New York,2013,Legal Document Automation,0
+181,DEAL0167,2013-09-01,2013,Counselytics,FIRM0310,100000.0,Seed Fund,USA,New York,2013,Legal Analytics,0
+182,DEAL0168,2013-09-05,2013,Ipselex,FIRM0333,13000.0,Seed Fund,Hong Kong,Hong Kong,2013,Legal Research,0
+184,DEAL0170,2013-09-11,2013,FiscalNote,FIRM0326,1200000.0,Seed fund,USA,Washington,2013,Legal Analytics,0
+185,DEAL0171,2013-09-12,2013,Brainspace,FIRM0059,9000000.0,Series C,USA,Texas,2005,Legal Document Automation,8
+187,DEAL0173,2013-09-20,2013,CaseRails,FIRM0302,20000.0,Seed Fund,USA,New York,2013,Legal Document Automation,0
+188,DEAL0174,2013-10-01,2013,Casetext,FIRM0303,1800000.0,Seed Fund,USA,San Francisco,2013,Legal Research,0
+190,DEAL0176,2013-10-01,2013,LegalTrek,FIRM0356,87500.0,Seed Fund,Germany,Berlin,2013,Legal Practice Management,0
+191,DEAL0177,2013-10-02,2013,UpCounsel,FIRM0276,1500000.0,Seed Fund,USA,San Francisco,2012,Legal Marketplace,1
+192,DEAL0178,2013-10-03,2013,Juristat,FIRM0235,50000.0,Grant,USA,St Louis,2012,Legal Analytics,1
+193,DEAL0179,2013-10-11,2013,LawKick,FIRM0241,150000.0,Seed Fund,USA,Santa Monica,2012,Legal Marketplace,1
+194,DEAL0180,2013-10-14,2013,eBrevia,FIRM0220,30000.0,Grant,USA,Stamford,2012,Legal Analytics,1
+195,DEAL0181,2013-10-17,2013,Anaqua,FIRM0058,25000000.0,Private Equity,USA,Boston,2007,Legal Practice Management,6
+196,DEAL0182,2013-10-21,2013,cicayda,FIRM0208,1000000.0,Debt Financing,USA,Nashville,2012,Legal Practice Management,1
+197,DEAL0183,2013-10-30,2013,Lawdingo,FIRM0239,690000.0,Angel,USA,New York,2012,Legal Marketplace,1
+199,DEAL0184,2013-11-01,2013,DealCircle,FIRM0424,18750.0,Seed Fund,Denmark,Copenhagen,2013,Legal Document Automation,0
+200,DEAL0185,2013-11-01,2013,ipnexus,FIRM0231,900000.0,Seed Fund,Hong Kong,Hong Kong,2012,Legal Marketplace,1
+201,DEAL0186,2013-11-14,2013,Viewabill,FIRM0278,1100000.0,Venture Capital,USA,Columbus,2012,Legal Analytics,1
+202,DEAL0187,2013-11-20,2013,Shake,FIRM0271,1000000.0,Seed Fund,USA,New York,2012,Legal Document Automation,1
+203,DEAL0188,2013-11-21,2013,Wevorce,FIRM0281,1700000.0,Seed Fund,USA,Idaho,2012,Legal Document Automation,1
+204,DEAL0189,2013-12-01,2013,Hire An Esquire,FIRM0169,350000.0,Seed Fund,USA,New York,2011,Legal Marketplace,2
+206,DEAL0191,2014-01-01,2014,Legal Logs,FIRM0581,100000.0,Convertible Note,USA,Baltimore,2012,Legal Practice Management,2
+208,DEAL0193,2014-01-05,2014,CellBreaker,FIRM0074,71000.0,Grant,USA,North Carolina,2012,E-Discovery,2
+209,DEAL0194,2014-01-07,2014,LegalZoom,FIRM0025,200000000.0,Secondary Market,USA,California,1999,Legal Document Automation,15
+210,DEAL0195,2014-01-08,2014,IP Street,FIRM0131,565000.0,Debt Financing,USA,Washington,2010,Legal Analytics,4
+211,DEAL0196,2014-01-08,2014,Lexdir,FIRM0362,525000.0,Venture Capital,Spain,Espina,2013,Legal Marketplace,1
+212,DEAL0197,2014-01-15,2014,CS Disco,FIRM0217,2000000.0,Venture Capital,USA,Houston,2012,Legal Practice Management,2
+214,DEAL0199,2014-01-30,2014,Innography,FIRM0072,3500000.0,Series B,USA,Texas,2006,Legal Practice Management,8
+215,DEAL0199,2014-01-30,2014,Innography,FIRM0072,3500000.0,Debt Financing,USA,Texas,2006,Legal Practice Management,8
+216,DEAL0200,2014-01-31,2014,cicayda,FIRM0208,3800000.0,Series B,USA,Nashville,2012,Legal Practice Management,2
+217,DEAL0201,2014-02-01,2014,ClauseMatch,FIRM0209,68750.0,Seed fund,UK,London,2012,Legal Document Automation,2
+218,DEAL0202,2014-02-01,2014,ClearView Social,FIRM0307,375000.0,Venture Capital,USA,New York,2013,Legal Practice Management,1
+220,DEAL0204,2014-02-03,2014,Ravel Law,FIRM0263,8100000.0,Series A,USA,San Francisco,2012,Legal Research,2
+221,DEAL0205,2014-02-11,2014,Clearpath Immigration,FIRM0084,400000.0,Debt Financing,USA,Miami,2008,Legal Document Automation,6
+222,DEAL0206,2014-02-11,2014,DealCircle,FIRM0424,750000.0,Series A,Denmark,Copenhagen,2014,Legal Document Automation,0
+223,DEAL0207,2014-02-14,2014,Lexdir,FIRM0362,218750.0,Convertible Note,Spain,Espina,2013,Legal Marketplace,1
+224,DEAL0208,2014-02-19,2014,Tyche,FIRM0500,28000.0,Seed Fund,USA,New York,2014,Legal Research,0
+225,DEAL0209,2014-03-01,2014,LegalTrek,FIRM0356,62500.0,Convertible Note,Germany,Berlin,2013,Legal Practice Management,1
+226,DEAL0210,2014-03-01,2014,TenderScout,FIRM0386,62500.0,Seed Fund,Ireland,Dublin,2013,Legal Practice Management,1
+227,DEAL0211,2014-03-04,2014,DocuSign,FIRM0045,85000000.0,Series E,USA,San Francisco,2003,Legal Practice Management,11
+228,DEAL0212,2014-03-05,2014,Reorg Research,FIRM0265,1300000.0,Seed Fund,USA,New York,2012,Legal Practice Management,2
+230,DEAL0214,2014-03-12,2014,Verinvest Corporation,FIRM0391,219700.0,Debt Financing,USA,Pennsylvania,2013,Legal Practice Management,1
+231,DEAL0215,2014-03-14,2014,AirHelp,FIRM0290,221000.0,Seed fund,USA,New York,2013,Legal Document Automation,1
+232,DEAL0216,2014-03-25,2014,Clio,FIRM0085,20000000.0,Series C,Canada,Burnaby,2008,Legal Practice Management,6
+233,DEAL0217,2014-03-26,2014,Bridge US,FIRM0204,800000.0,Seed Fund,USA,San Francisco,2011,Legal Marketplace,3
+234,DEAL0218,2014-03-26,2014,eBrevia,FIRM0220,100000.0,Grant,USA,Stamford,2012,Legal Analytics,2
+236,DEAL0220,2014-03-31,2014,NetLex,FIRM0369,375000.0,Seed Fund,Italy,Rome,2013,Legal Practice Management,1
+237,DEAL0221,2014-04-01,2014,DATY,FIRM0423,62500.0,Seed Fund,Czech Republic,Praha,2014,Legal Research,0
+238,DEAL0222,2014-04-01,2014,Pbworks,FIRM0063,421100.0,Debt Financing,USA,California,2005,Legal Document Automation,9
+239,DEAL0222,2014-04-01,2014,Pbworks,FIRM0063,1800000.0,Venture Capital,USA,California,2005,Legal Document Automation,9
+240,DEAL0223,2014-04-01,2014,Tunnel X,FIRM0389,350000.0,Seed Fund,USA,New York,2013,Legal Practice Management,1
+241,DEAL0224,2014-04-04,2014,Capture.it,FIRM0408,750000.0,Seed Fund,Canada,Toronto,2008,Legal Practice Management,6
+242,DEAL0225,2014-04-07,2014,eBrevia,FIRM0220,10000.0,Grant,USA,Stamford,2012,Legal Analytics,2
+243,DEAL0226,2014-04-07,2014,IP Street,FIRM0131,3300000.0,Debt Financing,USA,Washington,2010,Legal Analytics,4
+244,DEAL0227,2014-04-11,2014,Juristat,FIRM0235,100000.0,Grant,USA,St Louis,2012,Legal Analytics,2
+245,DEAL0228,2014-04-15,2014,Avvo,FIRM0066,37500000.0,Series D,USA,San Francisco,2008,Legal Marketplace,6
+246,DEAL0229,2014-04-22,2014,everplans,FIRM0225,2100000.0,Seed Fund,USA,New York,2012,Legal Document Automation,2
+247,DEAL0230,2014-04-30,2014,Apperio,FIRM0157,500000.0,Seed Fund,UK,London,2011,Legal Analytics,3
+248,DEAL0231,2014-05-01,2014,Advocado,FIRM0400,62500.0,Seed Fund,Germany,Greifswald,2014,Legal Marketplace,0
+250,DEAL0233,2014-05-01,2014,SupportPay,FIRM0191,1100000.0,Seed Fund,USA,California,2011,Legal Document Automation,3
+251,DEAL0234,2014-05-07,2014,TrademarkNow,FIRM0285,3500000.0,Series A,USA,New York,2012,Legal Document Automation,2
+252,DEAL0235,2014-05-07,2014,Workshare,FIRM0027,8400000.0,Series A,UK,London,1999,Legal Analytics,15
+253,DEAL0236,2014-05-12,2014,LawPath,FIRM0396,600000.0,Venture Capital,Australia,Sydney,2012,Legal Document Automation,2
+254,DEAL0237,2014-05-14,2014,ContractRoom,FIRM0213,320000.0,Angel,USA,California,2012,Legal Document Automation,2
+255,DEAL0238,2014-05-16,2014,Contract Live,FIRM0118,1400000.0,Venture Capital,France,Paris,2010,Legal Document Automation,4
+256,DEAL0239,2014-06-01,2014,ClauseMatch,FIRM0209,100000.0,Seed fund,UK,London,2012,Legal Document Automation,2
+259,DEAL0242,2014-06-01,2014,MisAbogados.com,FIRM0476,40000.0,Seed Fund,Chile,Santiago,2014,Legal Marketplace,0
+260,DEAL0243,2014-06-02,2014,Alt Legal,FIRM0291,40000.0,Seed fund,USA,New York,2013,Legal Practice Management,1
+261,DEAL0244,2014-06-05,2014,BigTime Software,FIRM0042,413200.0,Debt Financing,USA,Chicago,2013,Legal Practice Management,1
+263,DEAL0246,2014-06-24,2014,Seal Software,FIRM0144,4000000.0,Venture Capital,USA,California,2010,Legal Practice Management,4
+265,DEAL0248,2014-07-01,2014,Ipselex,FIRM0333,41300.0,Seed Fund,Hong Kong,Hong Kong,2013,Legal Research,1
+266,DEAL0249,2014-07-16,2014,Checkr,FIRM0411,120000.0,Seed Fund,USA,San Francisco,2014,Legal Document Automation,0
+267,DEAL0250,2014-07-17,2014,Manzama,FIRM0135,1300000.0,Series A,USA,Oregon,2010,E-Discovery,4
+268,DEAL0251,2014-07-22,2014,Juristat,FIRM0235,257000.0,Seed Fund,USA,St Louis,2012,Legal Analytics,2
+269,DEAL0252,2014-07-24,2014,Fixed (now Lawgix),FIRM0327,1200000.0,Seed Fund,USA,San Francisco,2013,Legal Marketplace,1
+271,DEAL0254,2014-07-30,2014,Otonomos,FIRM0663,150000.0,Seed Fund,Singapore,Singapore,2016,Legal Document Automation,0
+272,DEAL0255,2014-07-31,2014,Wevorce,FIRM0281,1700000.0,Debt Financing,USA,Idaho,2012,Legal Document Automation,2
+274,DEAL0257,2014-08-14,2014,Fixed (now Lawgix),FIRM0327,1200000.0,Seed Fund,USA,San Francisco,2013,Legal Marketplace,1
+275,DEAL0258,2014-08-26,2014,ClaimKit,FIRM0161,560000.0,Seed Fund,USA,Kansas,2014,Legal Document Automation,0
+276,DEAL0259,2014-09-01,2014,LegalTrek,FIRM0356,178750.0,Seed Fund,Germany,Berlin,2013,Legal Practice Management,1
+277,DEAL0260,2014-09-04,2014,Planned Departure,FIRM0375,172200.0,Seed Fund,UK,London,2013,Legal Document Automation,1
+278,DEAL0261,2014-09-30,2014,Legal Hero,FIRM0348,715000.0,Seed fund,USA,New York,2013,Legal Marketplace,1
+280,DEAL0263,2014-10-01,2014,Heureka Software,FIRM0436,500000.0,Convertible Note,USA,Cleveland,2014,Legal Practice Management,0
+281,DEAL0264,2014-10-01,2014,Lar21,FIRM0449,62000.0,Grant,Brazil,São Paulo,2014,Legal Document Automation,0
+282,DEAL0265,2014-10-01,2014,Quicklegal,FIRM0482,200000.0,Seed fund,USA,Sacramento,2014,Legal Marketplace,0
+283,DEAL0266,2014-10-01,2014,RSVP Law,FIRM0269,250000.0,Seed fund,USA,California,2013,Legal Marketplace,1
+284,DEAL0267,2014-10-06,2014,DocuSign,FIRM0045,30000000.0,Series E,USA,San Francisco,2003,Legal Practice Management,11
+286,DEAL0269,2014-10-14,2014,Checkr,FIRM0411,9000000.0,Series A,USA,San Francisco,2014,Legal Document Automation,0
+287,DEAL0270,2014-10-15,2014,Loudr,FIRM0365,400000.0,Seed Fund,USA,San Francisco,2013,Legal Document Automation,1
+288,DEAL0271,2014-10-24,2014,RPost,FIRM0037,3200000.0,Venture Capital,USA,Los Angeles,2000,Legal Practice Management,14
+291,DEAL0274,2014-11-19,2014,FiscalNote,FIRM0326,7000000.0,Series A,USA,Washington,2013,Legal Analytics,1
+292,DEAL0275,2014-11-20,2014,CS Disco,FIRM0217,10000000.0,Series B,USA,Houston,2012,Legal Practice Management,2
+293,DEAL0276,2014-11-25,2014,eBrevia,FIRM0220,1500000.0,Seed fund,USA,Stamford,2012,Legal Analytics,2
+296,DEAL0279,2014-12-09,2014,UpCounsel,FIRM0276,2400000.0,Seed Fund,USA,San Francisco,2012,Legal Marketplace,2
+297,DEAL0280,2014-12-22,2014,Allegory Law,FIRM0513,200000.0,Seed Fund,USA,New York,2011,Legal Analytics,3
+298,DEAL0281,2014-12-23,2014,everplans,FIRM0225,2500000.0,Seed Fund,USA,New York,2012,Legal Document Automation,2
+299,DEAL0282,2014-12-31,2014,Brāv,FIRM0407,1500.0,Seed Fund,USA,Detroit,2014,Online Dispute Resolution,0
+300,DEAL0283,2015-01-01,2015,LegalTrek,FIRM0356,125000.0,Convertible Note,Germany,Berlin,2013,Legal Practice Management,2
+301,DEAL0284,2015-01-01,2015,MainLaws,FIRM0631,20000.0,Private Equity,UK,London,2007,Legal Marketplace,8
+302,DEAL0285,2015-01-02,2015,CellBreaker,FIRM0074,100000.0,Convertible Note,USA,North Carolina,2011,E-Discovery,4
+303,DEAL0286,2015-01-03,2015,Quicklegal,FIRM0482,750000.0,Angel,USA,Sacramento,2014,Legal Marketplace,1
+304,DEAL0287,2015-01-05,2015,Carta (previously eShares),FIRM0223,7000000.0,Series A,USA,Palo Alto,2012,Legal Document Automation,3
+305,DEAL0288,2015-01-05,2015,ClaimKit,FIRM0161,940000.0,Series A,USA,Kansas,2001,Legal Document Automation,14
+306,DEAL0289,2015-01-05,2015,Juristat,FIRM0235,1200000.0,Seed Fund,USA,St Louis,2012,Legal Analytics,3
+307,DEAL0290,2015-01-16,2015,Lexoo,FIRM0471,366800.0,Seed Fund,UK,London,2014,Legal Marketplace,1
+308,DEAL0291,2015-01-20,2015,Trustatom,FIRM0499,100000.0,Seed fund,Canada,Vancouver,2014,Legal Document Automation,1
+309,DEAL0292,2015-02-02,2015,FiscalNote,FIRM0326,10000000.0,Series B,USA,Washington,2013,Legal Analytics,2
+310,DEAL0293,2015-02-02,2015,Zapproved,FIRM0099,15000000.0,Series C,USA,Portland,2008,Legal Practice Management,7
+311,DEAL0294,2015-02-03,2015,Casetext,FIRM0303,7000000.0,Series A,USA,San Francisco,2013,Legal Research,2
+312,DEAL0295,2015-02-03,2015,Fixed (now Lawgix),FIRM0327,650000.0,Seed Fund,USA,San Francisco,2013,Legal Marketplace,2
+313,DEAL0296,2015-02-03,2015,Relativity (previously kCura),FIRM0041,125000000.0,Venture Capital,USA,Chicago,2013,E-Discovery,2
+315,DEAL0298,2015-02-23,2015,Counselytics,FIRM0310,750000.0,Debt Financing,USA,New York,2007,Legal Analytics,8
+316,DEAL0299,2015-02-23,2015,Yuristiya,FIRM0509,100000.0,Angel,Russia,Moscow,2014,Legal Marketplace,1
+317,DEAL0300,2015-03-01,2015,Beagle.ai,FIRM0294,300000.0,Seed fund,Canada,Ontario,2013,Legal Analytics,2
+318,DEAL0301,2015-03-09,2015,ZeekBeek,FIRM0284,150000.0,Debt Financing,USA,Delaware,2012,Legal Marketplace,3
+319,DEAL0302,2015-03-20,2015,Termsheet.io,FIRM0387,100000.0,Seed fund,India,Chennai,2013,Legal Document Automation,2
+320,DEAL0303,2015-03-24,2015,Logikcull,FIRM0057,4000000.0,Seed fund,USA,San Francisco,2004,Legal Practice Management,11
+321,DEAL0304,2015-03-25,2015,Jurispect,FIRM0444,2000000.0,Seed Fund,USA,San Francisco,2014,Legal Analytics,1
+322,DEAL0305,2015-03-31,2015,ZeekBeek,FIRM0284,276000.0,Debt Financing,USA,Delaware,2012,Legal Marketplace,3
+323,DEAL0306,2015-04-01,2015,ClearView Social,FIRM0307,435000.0,Venture Capital,USA,New York,2013,Legal Practice Management,2
+325,DEAL0308,2015-04-01,2015,Heureka Software,FIRM0436,750000.0,Debt Financing,USA,Cleveland,2014,Legal Practice Management,1
+326,DEAL0309,2015-04-01,2015,LawyerFair,FIRM0344,224000.0,Seed fund,UK,London,2013,Legal Marketplace,2
+327,DEAL0310,2015-04-01,2015,Tyche,FIRM0500,40000.0,Seed Fund,USA,New York,2014,Legal Research,1
+328,DEAL0311,2015-04-01,2015,X2X Community (The Family Community),FIRM0508,150000.0,Seed Fund,USA,Maine,2014,Legal Marketplace,1
+329,DEAL0312,2015-04-04,2015,DivorceSecure,FIRM0548,25000.0,Seed Fund,USA,Memphis,2015,Online Dispute Resolution,0
+331,DEAL0314,2015-04-11,2015,Otonomos,FIRM0663,18750.0,Seed Fund,Singapore,Singapore,2016,Legal Document Automation,0
+334,DEAL0317,2015-04-20,2015,CellBreaker,FIRM0074,100000.0,Seed fund,USA,North Carolina,2014,E-Discovery,1
+335,DEAL0318,2015-05-12,2015,DocuSign,FIRM0045,233000000.0,Series F,USA,San Francisco,2003,Legal Practice Management,12
+336,DEAL0319,2015-05-18,2015,Swiftcourt,FIRM0384,625000.0,Seed fund,Denmark,Copenhagen,2013,Online Dispute Resolution,2
+337,DEAL0318,2015-05-27,2015,DocuSign,FIRM0045,45000000.0,Series F,USA,San Francisco,2003,Legal Practice Management,12
+341,DEAL0322,2015-06-04,2015,Planned Departure,FIRM0375,58099.99999999999,Seed Fund,UK,London,2013,Legal Document Automation,2
+342,DEAL0323,2015-06-11,2015,SupportPay,FIRM0191,1500000.0,Seed Fund,USA,California,2011,Legal Document Automation,4
+343,DEAL0324,2015-06-11,2015,ZeekBeek,FIRM0284,150000.0,Debt Financing,USA,Delaware,2012,Legal Marketplace,3
+344,DEAL0325,2015-06-29,2015,LEVERTON,FIRM0248,6250000.0,Angel,Germany,Berlin,2012,Legal Document Automation,3
+345,DEAL0326,2015-07-01,2015,Advocado,FIRM0400,500000.0,Seed Fund,Germany,Greifswald,2014,Legal Marketplace,1
+346,DEAL0327,2015-07-01,2015,Knomos Knowledge Management Inc,FIRM0448,627750.0,Angel,Canada,Vancouver,2014,Legal Research,1
+347,DEAL0328,2015-07-08,2015,CellBreaker,FIRM0074,125000.0,Convertible Note,USA,North Carolina,2008,E-Discovery,7
+351,DEAL0331,2015-07-16,2015,Immuta,FIRM0439,1500000.0,Seed fund,USA,Maryland,2014,Legal Analytics,1
+352,DEAL0332,2015-07-20,2015,Modria,FIRM0179,5800000.0,Series B,USA,California,2011,Online Dispute Resolution,4
+353,DEAL0333,2015-07-21,2015,PactSafe,FIRM0397,880000.0,Seed Fund,USA,Indianapolis,2013,Legal Document Automation,2
+354,DEAL0334,2015-07-28,2015,Avvo,FIRM0066,71500000.0,Series E,USA,San Francisco,2008,Legal Marketplace,7
+355,DEAL0335,2015-07-28,2015,UpCounsel,FIRM0276,10000000.0,Series A,USA,San Francisco,2012,Legal Marketplace,3
+356,DEAL0336,2015-08-01,2015,Ascent Technologies,FIRM0517,245000.0,Convertible Note,USA,Chicago,2015,Legal Document Automation,0
+357,DEAL0337,2015-08-01,2015,Heureka Software,FIRM0436,925000.0,Non-equity assistance,USA,Cleveland,2014,Legal Practice Management,1
+358,DEAL0338,2015-08-03,2015,Mark43,FIRM0253,10800000.0,Series A,USA,New York,2012,E-Discovery,3
+359,DEAL0339,2015-08-04,2015,TurboPatent,FIRM0097,2000000.0,Seed Fund,USA,Seattle,2008,Legal Practice Management,7
+360,DEAL0340,2015-08-13,2015,Carta (previously eShares),FIRM0223,17000000.0,Series B,USA,Palo Alto,2012,Legal Document Automation,3
+363,DEAL0343,2015-08-25,2015,Pbworks,FIRM0063,600000.0,Venture Capital,USA,California,2005,Legal Document Automation,10
+364,DEAL0344,2015-09-01,2015,Ironclad,FIRM0442,3000000.0,Seed Fund,USA,San Francisco,2014,Legal Document Automation,1
+365,DEAL0345,2015-09-01,2015,jEugene,FIRM0443,120000.0,Seed fund,USA,New York,2014,Legal Analytics,1
+366,DEAL0346,2015-09-01,2015,ROSS Intelligence,FIRM0487,120000.0,Seed Fund,USA,San Francisco,2014,Legal Research,1
+369,DEAL0348,2015-09-02,2015,LegalMatters.com,FIRM0634,660000.0,Angel,Netherlands,Amsterdam,2013,Legal Document Automation,2
+372,DEAL0350,2015-10-01,2015,MyDocSafe,FIRM0368,210000.0,Angel,UK,Bedford,2013,Legal Document Automation,2
+373,DEAL0351,2015-10-03,2015,Premonition,FIRM0481,3000000.0,Seed Fund,USA,Miami,2014,Legal Analytics,1
+375,DEAL0353,2015-10-05,2015,JustLegal,FIRM0335,250000.0,Seed fund,USA,Texas,2013,Legal Marketplace,2
+376,DEAL0354,2015-10-08,2015,CosmoLex,FIRM0070,350000.0,Debt Financing,USA,New Jersey,2013,Legal Practice Management,2
+379,DEAL0356,2015-10-14,2015,Concord,FIRM0627,2700000.0,Venture Capital,USA,San Francisco,2015,Legal Document Automation,0
+380,DEAL0357,2015-10-14,2015,LawBooth,FIRM0133,250000.0,Seed Fund,Canada,Ontario,2015,Legal Marketplace,0
+381,DEAL0358,2015-10-26,2015,LawPath,FIRM0396,1300000.0,Venture Capital,Australia,Sydney,2013,Legal Document Automation,2
+382,DEAL0359,2015-11-02,2015,Lexoo,FIRM0471,1190000.0,Seed Fund,UK,London,2014,Legal Marketplace,1
+383,DEAL0360,2015-11-04,2015,Premonition,FIRM0481,2000000.0,Seed Fund,USA,Miami,2014,Legal Analytics,1
+384,DEAL0361,2015-11-11,2015,PactSafe,FIRM0397,320000.0,Seed Fund,USA,Indianapolis,2013,Legal Document Automation,2
+385,DEAL0362,2015-11-15,2015,Seal Software,FIRM0144,9000000.0,Venture Capital,USA,California,2010,Legal Practice Management,5
+386,DEAL0363,2015-11-18,2015,Stampery,FIRM0492,600000.0,Seed Fund,USA,California,2015,Legal Document Automation,0
+387,DEAL0364,2015-11-24,2015,PactSafe,FIRM0397,1000000.0,Convertible Note,USA,Indianapolis,2013,Legal Document Automation,2
+388,DEAL0365,2015-12-15,2015,Pramata,FIRM0064,10000000.0,Series A,USA,California,2005,Legal Analytics,10
+391,DEAL0367,2015-12-21,2015,ClearView Social,FIRM0307,500000.0,Seed Fund,USA,New York,2013,Legal Practice Management,2
+392,DEAL0368,2015-12-31,2015,ContractRoom,FIRM0213,750000.0,Angel,USA,California,2012,Legal Document Automation,3
+393,DEAL0369,2016-01-01,2016,Esquify,FIRM0553,500000.0,Angel,USA,Chicago,2015,Legal Document Automation,1
+394,DEAL0370,2016-01-01,2016,Resis,FIRM0680,150000.0,Seed Fund,Poland,Krakow,2014,Legal Practice Management,2
+395,DEAL0371,2016-01-01,2016,ROSS Intelligence,FIRM0487,4300000.0,Seed Fund,USA,San Francisco,2014,Legal Research,2
+396,DEAL0372,2016-01-13,2016,IP Shark,FIRM0130,550000.0,Seed Fund,USA,Los Angeles,2010,Legal Research,6
+397,DEAL0373,2016-01-14,2016,Everlaw,FIRM0125,8100000.0,Series A,USA,California,2010,Legal Practice Management,6
+398,DEAL0374,2016-01-15,2016,ClearView Social,FIRM0307,923000.0,Seed Fund,USA,New York,2013,Legal Practice Management,3
+399,DEAL0375,2016-01-17,2016,Fixed (now Lawgix),FIRM0327,700000.0,Seed Fund,USA,San Francisco,2013,Legal Marketplace,3
+400,DEAL0376,2016-01-27,2016,ClaimKit,FIRM0161,1800000.0,Series A,USA,Kansas,2014,Legal Document Automation,2
+401,DEAL0377,2016-01-27,2016,Wevorce,FIRM0281,3100000.0,Series A,USA,Idaho,2012,Legal Document Automation,4
+404,DEAL0379,2016-02-01,2016,MisAbogados.com,FIRM0476,150000.0,Seed Fund,Chile,Santiago,2014,Legal Marketplace,2
+405,DEAL0380,2016-02-01,2016,X2X Community (The Family Community),FIRM0508,1000000.0,Seed Fund,USA,Maine,2014,Legal Marketplace,2
+406,DEAL0381,2016-02-02,2016,FiscalNote,FIRM0326,10000000.0,Series C,USA,Washington,2013,Legal Analytics,3
+410,DEAL0384,2016-02-08,2016,avvoka,FIRM0519,210000.0,Seed Fund,UK,London,2015,Legal Practice Management,1
+413,DEAL0387,2016-02-18,2016,cicayda,FIRM0208,2200000.0,Series B,USA,Nashville,2012,Legal Practice Management,4
+414,DEAL0388,2016-03-16,2016,LegalSifter,FIRM0354,1600000.0,Seed Fund,USA,Pittsburgh,2013,Legal Analytics,3
+415,DEAL0389,2016-03-22,2016,Apperio,FIRM0157,2380000.0,Seed Fund,UK,London,2011,Legal Analytics,5
+416,DEAL0390,2016-03-23,2016,Checkr,FIRM0411,40000000.0,Series B,USA,San Francisco,2014,Legal Document Automation,2
+417,DEAL0391,2016-03-31,2016,Eris Industries (Monax),FIRM0431,70000000.0,Grant,UK,London,2016,Legal Document Automation,0
+419,DEAL0393,2016-04-27,2016,Mark43,FIRM0253,27000000.0,Series B,USA,New York,2012,E-Discovery,4
+420,DEAL0394,2016-05-01,2016,Upsolve,FIRM0667,20000.0,Grant,USA,New York,2016,Legal Document Automation,0
+421,DEAL0395,2016-05-12,2016,Captain Contrat,FIRM0300,1250000.0,Seed Fund,France,Paris,2013,Legal Document Automation,3
+422,DEAL0396,2016-05-16,2016,everplans,FIRM0225,3200000.0,Venture Capital,USA,New York,2012,Legal Document Automation,4
+425,DEAL0398,2016-06-01,2016,MeWe.Org (now CoInspect),FIRM0474,785000.0,Angel,USA,California,2014,Legal Compliance,2
+426,DEAL0399,2016-06-02,2016,Legalix,FIRM0467,75000.0,Seed Fund,Mexico,Mexico City,2014,Legal Document Automation,2
+427,DEAL0400,2016-06-15,2016,Witnex,FIRM0669,250000.0,Angel,USA,Florida,2016,Legal Research,0
+428,DEAL0401,2016-06-30,2016,everplans,FIRM0225,6400000.0,Series A,USA,New York,2012,Legal Document Automation,4
+430,DEAL0403,2016-07-26,2016,Doxly,FIRM0647,500000.0,Venture Capital,USA,Indianapolis,2014,Legal Practice Management,2
+432,DEAL0405,2016-07-31,2016,FairClaim,FIRM0510,125000.0,Seed Fund,USA,Los Angeles,2014,Online Dispute Resolution,2
+435,DEAL0407,2016-08-02,2016,CS Disco,FIRM0217,18600000.0,Series C,USA,Houston,2012,Legal Practice Management,4
+436,DEAL0408,2016-08-03,2016,AirHelp,FIRM0290,12000000.0,Series A,USA,New York,2013,Legal Document Automation,3
+437,DEAL0409,2016-08-03,2016,Scrive,FIRM0150,1021250.0,Venture Capital,Sweden,Stockholm,2010,Legal Document Automation,6
+438,DEAL0410,2016-08-05,2016,Legal Inc,FIRM0463,500000.0,Convertible Note,USA,Texas,2014,Legal Document Automation,2
+439,DEAL0411,2016-08-17,2016,Court Buddy,FIRM0672,12500.0,Non-equity assistance,USA,San Francisco,2016,Legal Marketplace,0
+440,DEAL0412,2016-08-23,2016,Logikcull,FIRM0057,10000000.0,Series A,USA,San Francisco,2004,Legal Practice Management,12
+441,DEAL0413,2016-08-24,2016,Legalist,FIRM0676,120000.0,Seed Fund,USA,San Francisco,2008,Legal Analytics,8
+442,DEAL0414,2016-08-26,2016,synergist.io,FIRM0620,450000.0,Seed Fund,Germany,Berlin,2015,Legal Practice Management,1
+443,DEAL0415,2016-08-30,2016,Ascent Technologies,FIRM0517,1200000.0,Seed Fund,USA,Chicago,2015,Legal Document Automation,1
+444,DEAL0416,2016-08-30,2016,Gadfly Legal Technologies,FIRM0433,695000.0,Debt Financing,USA,Boston,2014,Legal Document Automation,2
+446,DEAL0418,2016-09-01,2016,Compensation2Go ,FIRM0639,1250000.0,Venture Capital,Germany,Bochum,2016,Legal Practice Management,0
+448,DEAL0420,2016-09-08,2016,Headnote,FIRM0674,370000.0,Seed Fund,USA,California,2015,Legal Practice Management,1
+449,DEAL0421,2016-09-15,2016,Luminance,FIRM0630,3000000.0,Venture Capital,UK,London,2016,Legal Research,0
+450,DEAL0422,2016-09-15,2016,Ravel Law,FIRM0263,6000000.0,Series A,USA,San Francisco,2012,Legal Research,4
+451,DEAL0423,2016-09-21,2016,Doxly,FIRM0647,2300000.0,Venture Capital,USA,Indianapolis,2016,Legal Practice Management,0
+452,DEAL0424,2016-09-26,2016,MyDocSafe,FIRM0368,21000.0,Angel,UK,Bedford,2013,Legal Document Automation,3
+453,DEAL0425,2016-09-27,2016,LegalSifter,FIRM0354,2800000.0,Seed Fund,USA,Pittsburgh,2013,Legal Analytics,3
+454,DEAL0426,2016-10-02,2016,LegalClick,FIRM0586,370000.0,Seed Fund,USA,Florida,2015,Legal Marketplace,1
+455,DEAL0427,2016-10-10,2016,eBrevia,FIRM0220,1800000.0,Seed fund,USA,Stamford,2012,Legal Analytics,4
+456,DEAL0428,2016-10-13,2016,Doctrine,FIRM0644,2500000.0,Seed fund,France,Paris,2016,Legal Research,0
+461,DEAL0431,2016-11-01,2016,Upsolve,FIRM0667,65000.0,Grant,USA,New York,2016,Legal Document Automation,0
+463,DEAL0433,2016-11-07,2016,Юрбюро,FIRM0633,228000.0,Seed Fund,Russia,Moscow,2016,Legal Marketplace,0
+464,DEAL0434,2016-11-21,2016,BurgieLaw,FIRM0637,200000.0,Seed Fund,Malaysia,Kuala Lumpur,2016,Legal Marketplace,0
+467,DEAL0436,2016-11-30,2016,LawGeex,FIRM0458,2500000.0,Seed Fund,Israel,Tel Aviv,2014,Legal Document Automation,2
+470,DEAL0439,2016-12-13,2016,SupportPay,FIRM0191,4100000.0,Series A,USA,California,2011,Legal Document Automation,5
+471,DEAL0440,2016-12-14,2016,LawTrades,FIRM0461,2700000.0,Seed Fund,USA,New York,2014,Legal Marketplace,2
+474,DEAL0443,2016-12-29,2016,Legal Advice Middle East,FIRM0628,25000.0,Grant,UAE,Dubai,2015,Legal Marketplace,1
+475,DEAL0444,2016-12-31,2016,ContractRoom,FIRM0213,450000.0,Angel,USA,California,2012,Legal Document Automation,4
+476,DEAL0445,2017-01-02,2017,Legalese,FIRM0587,513000.0,Angel,Singapore,Singapore,2015,Legal Document Automation,2
+477,DEAL0446,2017-01-17,2017,Juro,FIRM0675,750000.0,Seed Fund,UK,London,2015,Legal Practice Management,2
+478,DEAL0447,2017-01-19,2017,Case.one,FIRM0671,5000000.0,Series A,USA,California,2010,Legal Practice Management,7
+479,DEAL0448,2017-01-25,2017,Scrive,FIRM0150,1122145.0,Venture Capital,Sweden,Stockholm,2016,Legal Document Automation,1
+480,DEAL0449,2017-02-02,2017,Litify,FIRM0677,5000000.0,Series A,USA,New York,2016,Legal Practice Management,1
+483,DEAL0450,2017-02-16,2017,Immuta,FIRM0439,8000000.0,Seed fund,USA,Maryland,2014,Legal Analytics,3
+484,DEAL0451,2017-02-28,2017,MeWe.Org (now CoInspect),FIRM0474,2300000.0,Seed Fund,USA,California,2014,Legal Compliance,3
+485,DEAL0452,2017-03-01,2017,Legal Inc,FIRM0463,2000000.0,Venture Capital,USA,Texas,2014,Legal Document Automation,3
+488,DEAL0455,2017-03-07,2017,LawGeex,FIRM0458,7000000.0,Seed Fund,Israel,Tel Aviv,2014,Legal Document Automation,3
+489,DEAL0456,2017-03-10,2017,TenderScout,FIRM0386,625000.0,Seed Fund,Ireland,Dublin,2013,Legal Practice Management,4
+491,DEAL0458,2017-03-22,2017,Casetext,FIRM0303,12000000.0,Series B,USA,San Francisco,2013,Legal Research,4
+492,DEAL0459,2017-04-11,2017,Lexoo,FIRM0471,644000.0,Seed Fund,UK,London,2014,Legal Marketplace,3
+493,DEAL0460,2017-04-14,2017,TurboPatent,FIRM0097,1500000.0,Convertible Note,USA,Seattle,2008,Legal Practice Management,9
+494,DEAL0461,2017-05-01,2017,Advocado,FIRM0400,1250000.0,Seed Fund,Germany,Greifswald,2014,Legal Marketplace,3
+495,DEAL0462,2017-05-03,2017,Clause,FIRM0533,793200.0,Seed Fund,USA,New York,2015,Legal Document Automation,2
+496,DEAL0463,2017-05-11,2017,Court Buddy,FIRM0672,150000.0,Convertible Note,USA,San Francisco,2013,Legal Marketplace,4
+497,DEAL0464,2017-05-15,2017,Upsolve,FIRM0667,75000.0,Grant,USA,New York,2016,Legal Document Automation,1
+499,DEAL0466,2017-05-30,2017,CrowdJustice,FIRM0313,2000000.0,Seed Fund,UK,London,2013,Legal Marketplace,4
+500,DEAL0467,2017-05-31,2017,Concord,FIRM0627,3700000.0,Series A,USA,San Francisco,2015,Legal Document Automation,2
+502,DEAL0469,2017-06-06,2017,Court Innovations,FIRM0311,1800000.0,Series A,USA,Michigan,2014,Online Dispute Resolution,3
+503,DEAL0470,2017-06-06,2017,Hire An Esquire,FIRM0169,1800000.0,Venture Capital,USA,New York,2011,Legal Marketplace,6
+504,DEAL0471,2017-06-12,2017,Assently,FIRM0151,1150000.0,Venture Capital,Sweden,Stockholm,1999,Legal Document Automation,18
+505,DEAL0472,2017-06-12,2017,Exari Systems,FIRM0028,24000000.0,Debt Financing,Australia,Melbourne,2017,Legal Document Automation,0
+506,DEAL0473,2017-06-15,2017,Atrium LTS,FIRM0683,10500000.0,Venture Capital,USA,San Francisco,2017,Legal Practice Management,0
+507,DEAL0474,2017-06-21,2017,Pbworks,FIRM0063,1700000.0,Venture Capital,USA,California,2005,Legal Document Automation,12
+508,DEAL0475,2017-06-29,2017,ClauseMatch,FIRM0209,1600000.0,Seed fund,UK,London,2012,Legal Document Automation,5
+509,DEAL0476,2017-06-29,2017,SimpleLegal,FIRM0381,10000000.0,Seed Fund,USA,California,2013,Legal Analytics,4
+510,DEAL0477,2017-07-07,2017,ContratosApp,FIRM0416,115000.0,Seed fund,Mexico,Mexico City,2014,Legal Document Automation,3
+511,DEAL0478,2017-07-12,2017,Esquify,FIRM0553,710000.0,Seed Fund,USA,Chicago,2014,Legal Document Automation,3
+512,DEAL0479,2017-07-12,2017,FairClaim,FIRM0510,1800000.0,Angel,USA,Los Angeles,2014,Online Dispute Resolution,3
+513,DEAL0480,2017-07-17,2017,LEVERTON,FIRM0248,12500000.0,Angel,Germany,Berlin,2012,Legal Document Automation,5
+514,DEAL0481,2017-07-17,2017,SeedLegals,FIRM0678,1400000.0,Angel,UK,London,2016,Legal Practice Management,1
+515,DEAL0482,2017-07-25,2017,Heureka Software,FIRM0436,1800000.0,Seed fund,USA,Cleveland,2014,Legal Practice Management,3
+516,DEAL0483,2017-08-02,2017,Ironclad,FIRM0442,8000000.0,Series A,USA,San Francisco,2014,Legal Document Automation,3
+517,DEAL0484,2017-08-04,2017,Doxly,FIRM0647,543200.0,Venture Capital,USA,Indianapolis,2016,Legal Practice Management,1
+518,DEAL0485,2017-09-26,2017,Legal Advice Middle East,FIRM0628,75000.0,Seed Fund,UAE,Dubai,2016,Legal Marketplace,1
+519,DEAL0486,2017-09-28,2017,Libryo,FIRM0629,1000000.0,Seed Fund,UK,London,2016,Legal Compliance,1
+520,DEAL0487,2017-10-03,2017,TrademarkNow,FIRM0285,2500000.0,Debt Financing,USA,New York,2016,Legal Document Automation,1
+521,DEAL0487,2017-10-03,2017,TrademarkNow,FIRM0285,3750000.0,Series B,USA,New York,2012,Legal Document Automation,5
+522,DEAL0488,2017-10-04,2017,Court Buddy,FIRM0672,1000000.0,Seed Fund,USA,San Francisco,2016,Legal Marketplace,1
+523,DEAL0489,2017-10-11,2017,Carta (previously eShares),FIRM0223,42000000.0,Series C,USA,Palo Alto,2012,Legal Document Automation,5
+524,DEAL0490,2017-10-11,2017,ROSS Intelligence,FIRM0487,8700000.0,Series A,USA,San Francisco,2014,Legal Research,3
+525,DEAL0491,2017-10-18,2017,synergist.io,FIRM0620,1250000.0,Seed Fund,Germany,Berlin,2015,Legal Practice Management,2
+527,DEAL0493,2017-10-31,2017,Mimecast,FIRM0178,403000.0,Post-IPO Equity,UK,London,2003,E-Discovery,14
+528,DEAL0494,2017-11-07,2017,RiskGenius,FIRM0614,3000000.0,Series A,USA,Kansas,2015,Legal Analytics,2
+529,DEAL0495,2017-11-08,2017,Qodeo,FIRM0262,34580.0,Equity crowdfunding,UK,London,2012,Legal Research,5
+530,DEAL0496,2017-11-13,2017,Shoobx,FIRM0380,10000000.0,Venture Capital,USA,Boston,2013,Legal Document Automation,4
+531,DEAL0497,2017-11-14,2017,My Exit Strategy (now Cake),FIRM0599,1400000.0,Seed fund,USA,Cambridge,2015,Legal Document Automation,2
+532,DEAL0498,2017-11-29,2017,Luminance,FIRM0630,10000000.0,Series A,UK,London,2013,Legal Research,4
+533,DEAL0499,2017-12-01,2017,LegalSifter,FIRM0354,1900000.0,Venture Capital,USA,Pittsburgh,2013,Legal Analytics,4
+534,DEAL0500,2017-12-05,2017,Captain Contrat,FIRM0300,5000000.0,Series A,France,Paris,2013,Legal Document Automation,4
+535,DEAL0501,2018-01-05,2018,Concord,FIRM0627,10000000.0,Series A,USA,San Francisco,2015,Legal Document Automation,3
+537,DEAL0503,2018-01-23,2018,Onna,FIRM0632,5000000.0,Venture Capital,Spain,Barcelona,2012,Legal Practice Management,6
+538,DEAL0504,2018-01-29,2018,Logikcull,FIRM0057,25000000.0,Series B,USA,San Francisco,2004,Legal Practice Management,14
+539,DEAL0505,2018-01-30,2018,CS Disco,FIRM0217,20000000.0,Series D,USA,Houston,2012,Legal Practice Management,6
+540,DEAL0506,2018-02-14,2018,TurboPatent,FIRM0097,3250000.0,Venture Capital,USA,Seattle,2008,Legal Practice Management,10
